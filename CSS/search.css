@@ -1,0 +1,56 @@
+form li .buscar-caja {
+ position: absolute;
+ top: 2%;
+ left: 48%;
+ /* transform: translate(-50%, -50%); */
+ background: #13293d;
+ border: solid 2px rgb(84, 112, 133);
+ height: 26px;
+ border-radius: 2px;
+ padding: 5px;
+}
+
+form li .buscar-caja:hover > .buscar-txt {
+ width: 240px;
+ padding: 0;
+}
+
+form li .buscar-caja:hover > .buscar-btn {
+ background: #13293d;
+ color: black;
+ padding: 0;
+}
+
+form li .buscar-caja .buscar-btn {
+ float: right;
+ width: 30px;
+ height: 30px;
+ border-radius: 50%;
+ background: #13293d;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ transition: 0.4s;
+ color: #e8f1f8;
+ cursor: pointer;
+ border: 1px solid #13293d;
+}
+
+form li .buscar-caja .buscar-btn > i {
+ font-size: 30px;
+ border: 1px solid #13293d;
+}
+
+form li .buscar-caja .buscar-txt {
+ border: none;
+ background: none;
+ outline: none;
+ float: left;
+ padding: 0;
+ color: #e8f1f8;
+ font-size: 16px;
+ transition: 0.4s;
+ line-height: 30px;
+ width: 0px;
+}
+

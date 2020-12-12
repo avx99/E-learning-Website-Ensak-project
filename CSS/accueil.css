@@ -1,0 +1,21 @@
+
+
+body{
+    height: 100%;
+}
+
+
+.center{
+    height: 100%;
+}
+
+
+.corp{
+    text-align: center;
+    border: 15px black solid ;
+    width: 200px;
+}
+
+.corp h1{
+    border: 15px black solid ;
+}

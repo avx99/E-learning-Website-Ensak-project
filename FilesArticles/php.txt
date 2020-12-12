@@ -1,0 +1,134 @@
+ <center><h1 style="padding: 10px 0px; color: #13283D;">Cours PHP</h1></center> 
+<h3 style="padding: 10px 0px; color: #13283D;">Découvrez les bases de PHP</h3>
+<h3 style="padding: 10px 0px; color: #13283D;">Les variables</h3>
+
+<p>
+    Les variables sont un élément indispensable dans tout langage de programmation, 
+    et en PHP on n'y échappe pas. Ce n'est pas un truc de programmeurs tordus, 
+    c'est au contraire quelque chose qui va nous simplifier la vie. Sans les variables, 
+    vous n'irez pas bien loin.
+    Les variables nous permettent de retenir temporairement des informations en mémoire. 
+    Avec elles, nous allons pouvoir par exemple retenir le pseudonyme du visiteur, 
+    effectuer des calculs et bien d'autres choses !
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Qu'est-ce qu'une variable ?</h3>
+
+<p>
+    Rien qu'avec leur nom, vous devez vous dire que c'est quelque chose qui change tout le temps. 
+    En effet, le propre d'une variable c'est de pouvoir varier (belle lapalissade, n'est-ce pas ? ;-)). 
+    Mais qu'est-ce que c'est concrètement ?
+    Une variable, c'est une petite information stockée en mémoire temporairement. 
+    Elle n'a pas une grande durée de vie. En PHP, la variable (l'information) existe tant que la page 
+    est en cours de génération. Dès que la page PHP est générée, toutes les variables sont supprimées 
+    de la mémoire car elles ne servent plus à rien. Ce n'est donc pas un fichier qui reste stocké sur 
+    le disque dur mais une petite information temporaire présente en mémoire vive.
+    C'est à vous de créer des variables. Vous en créez quand vous en avez besoin pour retenir des informations.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Un nom et une valeur</h3>
+
+<p>
+    Une variable est toujours constituée de deux éléments :
+son nom : pour pouvoir la reconnaître, vous devez donner un nom à votre variable. Par exempleage_du_visiteur;
+sa valeur : c'est l'information qu'elle contient, et qui peut changer. Par exemple : 17.
+Ici, je vous ai donné l'exemple d'une variable appeléeage_du_visiteurqui a pour valeur 17.
+On peut modifier quand on veut la valeur de cette variable, faire des opérations dessus, etc. 
+Et quand on en a besoin, on l'appelle (par son nom), et elle nous dit gentiment la valeur qu'elle contient.<br>
+Par exemple, on peut imaginer l'échange suivant :<br>
+« Hep ! Toi, la variableage_du_visiteur, que contiens-tu ? »<br>
+« 17 »<br>
+« Merci ! »<br>
+Vous allez voir que ces petites bébêtes, même si elles peuvent vous sembler encore un peu floues, 
+seront vraiment indispensables pour votre site en PHP.
+Par exemple, vous pourrez retenir temporairement le nom du visiteur. Dans une variablenom_du_visiteur, 
+vous stockerez son pseudo, mettons « M@teo21 ». Dès que vous en aurez besoin vous pourrez l'utiliser, 
+notamment pour afficher un message de bienvenue personnalisé : « Salut M@teo21 ! Bienvenue sur mon site ! ».
+Il est de bon ton de ne coder qu'en anglais : en effet, je ne vous le répèterai jamais assez, 
+le code que vous écrivez pourrait être relu / repris par n'importe qui, et il est possible 
+que le (la)développeur(se) soit non francophone.
+Ainsi, pour les noms de vos variables, prenez soin de ne les écrire qu'en anglais.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les différents types de variables</h3>
+
+<p>
+    Les variables sont capables de stocker différents types d'informations. On parle de types de données. 
+    Voici les principaux types à connaître.
+Les chaînes de caractères (string) : les chaînes de caractères sont le nom informatique qu'on donne au texte.
+ Tout texte est appelé chaîne de caractères. En PHP, ce type de données a un nom :string. On peut stocker des 
+ textes courts comme très longs au besoin.
+Exemple :"Je suis un texte". Une chaîne de caractères est habituellement écrite entre guillemets
+ ou entre apostrophes (on parle de guillemets simples) :'Je suis un texte'. Les deux fonctionnent 
+ mais il y a une petite différence que l'on va découvrir plus loin.<br>
+Les nombres entiers (int) : ce sont les nombres du type 1, 2, 3, 4, etc. 
+On compte aussi parmi eux les entiers relatifs : -1, -2, -3…<br>
+Exemple :42.<br>
+Les nombres décimaux (float) : ce sont les nombres à virgule, comme 14,738. On peut stocker 
+de nombreux chiffres après la virgule, ce qui devrait convenir pour la plupart des usages que vous en ferez. 
+Attention, les nombres doivent être écrits avec un point au lieu de la virgule (c'est la notation anglaise).<br>
+Exemple :14.738.<br>
+Les booléens (bool) : c'est un type très important qui permet de stocker soit vrai soit faux. 
+Cela permet de retenir si une information est vraie ou fausse. On les utilise très fréquemment. 
+On écrittruepour vrai, etfalsepour faux.<br>
+Exemple :true.<br>
+
+Rien (NULL) : aussi bizarre que cela puisse paraître, on a parfois besoin de dire qu'une variable ne contient rien. 
+Rien du tout. On indique donc qu'elle vautNULL. Ce n'est pas vraiment un type de données, mais plutôt l'absence de type.
+
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">En résumé</h3>
+<p>
+    Une variable est une petite information qui reste stockée en mémoire le temps de la génération de la page PHP. Elle a un nom et une valeur.
+
+Il existe plusieurs types de variables qui permettent de stocker différents types d'informations : du texte (string), des nombres entiers (int), des nombres décimaux (float), des booléens pour stocker vrai ou faux (bool), etc.
+
+En PHP, un nom de variable commence par le symbole dollar :$agepar exemple.
+
+La valeur d'une variable peut être affichée avec l'instructionecho.
+
+Il est possible de faire des calculs mathématiques entre plusieurs variables : addition, soustraction, multiplication…
+
+</p>
+
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les tableaux</h3>
+
+<p>
+Nous abordons ici un aspect très important du PHP : les arrays.
+
+Vous allez voir qu'il s'agit de variables « composées », que l'on peut imaginer sous la forme de tableaux.
+
+On peut faire énormément de choses avec les arrays et leur utilisation n'est pas toujours très facile. Cependant, ils vont très rapidement nous devenir indispensables et vous devez bien comprendre leur fonctionnement. Si vous y parvenez, nous aurons fait le tour des bases du PHP et vous serez fin prêts pour la suite, qui s'annonce concrète et passionnante.
+
+
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les deux types de tableaux</h3>
+<h4 style="padding: 10px 0px; color: #13283D;">Les tableaux numérotés</h4>
+
+<p>
+    Ces tableaux sont très simples à imaginer. Regardez par exemple celui-ci, contenu de la variable$prenoms 
+    $prenomsest un array : c'est ce qu'on appelle une variable « tableau ». Elle n'a pas qu'une valeur, mais plusieurs (vous pouvez en mettre autant que vous voulez).
+
+Dans un array, les valeurs sont rangées dans des « cases » différentes. Ici, nous travaillons sur un array numéroté, c'est-à-dire que chaque case est identifiée par un numéro. Ce numéro est appelé clé.
+</p>
+
+<h4 style="padding: 10px 0px; color: #13283D;">Les tableaux associatifs</h4>
+
+<p>
+Les tableaux associatifs fonctionnent sur le même principe, sauf qu'au lieu de numéroter les cases, on va les étiqueter en leur donnant à chacune un nom différent.
+
+Par exemple, supposons que je veuille, dans un seul array, enregistrer les coordonnées de quelqu'un (nom, prénom, adresse, ville, etc.). Si l'array est numéroté, comment savoir que le n°0 est le nom, le n°1 le prénom, le n°2 l'adresse… ? C'est là que les tableaux associatifs deviennent utiles.
+</p>
+
+<h4 style="padding: 10px 0px; color: #13283D;">Les fonctions</h3>
+
+<p>En PHP, on n'aime pas avoir à répéter le même code. Pour pallier ce problème, nous avons découvert les boucles, qui permettent d'exécuter des instructions un certain nombre de fois. Ici nous allons découvrir un autre type de structure indispensable pour la suite : les fonctions.
+Comme les boucles, les fonctions permettent d'éviter d'avoir à répéter du code PHP que l'on utilise souvent. Mais alors que les boucles sont de bêtes machines tout juste capables de répéter deux cents fois la même chose, les fonctions sont des robots « intelligents » qui s'adaptent en fonction de ce que vous voulez faire et qui automatisent grandement la plupart des tâches courantes.
+
+Les fonctions en PHP
+Nous avons jusqu'ici imaginé le dialogue avec une fonction représentée par un robot, ce qui n'est pas très intéressant.
+Revenons aux choses sérieuses et concrètes.
+</p>

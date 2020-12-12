@@ -1,0 +1,21 @@
+Angular (communément appelé "Angular 2+" ou "Angular v2 et plus")2,3 est un cadriciel (framework) côté client, open source, basé sur TypeScript,
+ et co-dirigé par l'équipe du projet « Angular » à Google et par une communauté de particuliers et de sociétés. Angular est une réécriture complète de AngularJS, 
+cadriciel construit par la même équipe.
+Angular n'a pas de notion de "portée" ou de contrôleurs, au lieu de cela il utilise une hiérarchie de composants comme principale caractéristique architecturale4.
+Angular a une syntaxe d'expression différente, en se concentrant sur les "[ ]" pour la liaison des propriétés, et de "( )" pour les liaisons des événements5
+Modularité – beaucoup de fonctionnalités de base ont été déplacées vers des modules
+Angular recommande l'utilisation du langage TypeScript, créé par Microsoft, qui présente les caractéristiques suivantes:
+le principe de classe, à la base de la Programmation Orientée Objet
+le typage statique
+les génériques
+TypeScript est un sur-ensemble d'ECMAScript 6 (ES6), et est rétro-compatible avec ECMAScript 5 (c'est-à-dire: JavaScript). Angular comprend également 
+les principes d'ES6 suivant :
+les fonctions anonymes
+les itérateurs
+boucles for-of
+générateurs dans le style du langage Python
+La réflexion
+Le chargement dynamique
+Compilation asynchrone des modèles
+Itératif rappels fournis par RxJS. RxJS limites de l'état de visibilité et de débogage, mais ces problèmes peuvent être résolus avec réactif 
+add-ons comme ngReact ou ngrx.

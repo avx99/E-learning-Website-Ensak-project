@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body, html{
+    height: 100%;
+    width: 100%;
+}
+
+.centre{
+    height: 100%;
+    width: 100%;
+}
+
+
+.footer{
+    height: 400px;
+    position: relative;
+    background-color: #13283D;
+    color: #E8F1F2;
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+.footer .bottom{
+    height: 20px;
+    width: 98.3%;
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(29, 50, 71);
+    
+}
+
+.footer .content-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 80px;
+}
+
+
+.footer .content-footer .content-sociale p{
+    padding-top: 10px;
+}
+.footer .content-footer .content-sociale .social-img{
+    display: inline;
+    padding-top: 30px;
+}
+.footer .content-footer .content-sociale .social-img p{
+    padding-top: 30px;
+}
+.footer .content-footer .content-sociale .social-img img{
+    height: 35px;
+    width: 35px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+button{
+    background-color: #006494;
+}
+
+
+
+.footer .content-footer .content-about .about-show >p{   
+    padding: 40px;
+    text-align: justify;
+    line-height: 20px;
+}
+.footer .content-footer .content-about .voir-plus{
+height: 30px;
+width: 90px;
+color: #E8F1F2;
+background-color: #006494;
+border-radius: 15px;
+border: none;
+float: right;
+}
+
+.footer .content-footer .content-about .voir-plus:hover{
+    background-color:  rgba(00, 64, 94, 1);
+}
+
+.footer .content-footer .content-contact form{
+    padding-top: 50px;
+}
+
+.footer .content-footer .content-contact form input{
+    margin: 10px;
+    background-color: rgb(40, 51, 66);
+    border: rgb(40, 51, 66) 3px solid;
+    color: #E8F1F2;
+    border-radius: 5px;
+}
+.footer .content-footer .content-contact form .email{
+    height: 20px;
+}
+
+.footer .content-footer .content-contact form .envoyer{
+    height: 30px;
+    width: 70px;
+    color: #E8F1F2;
+    background-color: #006494;
+    border-radius: 15px;
+    border: none;
+    float: right;
+}
+.footer .content-footer .content-contact form .envoyer:hover{
+    background-color:  rgba(00, 64, 94, 1);
+}
+.footer .content-footer .content-contact form .message{
+    height: 50px;
+    
+}
+

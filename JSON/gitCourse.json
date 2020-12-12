@@ -1,0 +1,724 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "0eXJYsPWVEycw9rZxccsZQctOYc",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2015-03-04T09:54:34Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (1/18) : Qu'est ce que git ?",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/git-presentation-1090\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans cette formation je vous propose de faire un tour des fonctions importantes de Git. Cet outil permet de faire du versioning et de garder une trace des modifications apport\u00e9es au projet.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rP3T0Ee6pLU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rP3T0Ee6pLU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rP3T0Ee6pLU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rP3T0Ee6pLU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rP3T0Ee6pLU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 0,
+      "resourceId": { "kind": "youtube#video", "videoId": "rP3T0Ee6pLU" }
+    },
+    "contentDetails": {
+      "videoId": "rP3T0Ee6pLU",
+      "videoPublishedAt": "2015-03-04T18:03:46Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "y3gY4ULqFWEhr4ddnT7teTisTgM",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2015-03-04T09:54:34Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (2/18) : Installer git sur windows",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/install-git-windows-582\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nL'installation de git sur Windows est de loin la plus foireuse de toutes. Il va nous falloir installer git en utilisant l'executable fournit sur [git-scm.com](http://git-scm.com). Lors de l'installation il faudra bien faire attention \u00e0 cocher l'option afin d'obtenir les commande UNIX dans le PATH de notre syst\u00e8me. Cette option nous permettra par la suite de profiter de certaines commandes linux sans avoir \u00e0 utiliser un terminal sp\u00e9cial.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G0UV0jKgV4Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G0UV0jKgV4Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G0UV0jKgV4Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G0UV0jKgV4Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G0UV0jKgV4Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 1,
+      "resourceId": { "kind": "youtube#video", "videoId": "G0UV0jKgV4Y" }
+    },
+    "contentDetails": {
+      "videoId": "G0UV0jKgV4Y",
+      "videoPublishedAt": "2015-03-04T18:05:32Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "AbzF1pgKWBbjP_Wwb-Ax5z_hFI8",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2015-03-04T09:54:34Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (4/18) : Installer git sur linux",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/install-git-linux-584\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nSi vous utilisez linux je pense que vous devinez comment installer git. Un simple\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vhkTbrJfqKE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vhkTbrJfqKE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vhkTbrJfqKE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vhkTbrJfqKE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vhkTbrJfqKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 2,
+      "resourceId": { "kind": "youtube#video", "videoId": "vhkTbrJfqKE" }
+    },
+    "contentDetails": {
+      "videoId": "vhkTbrJfqKE",
+      "videoPublishedAt": "2015-03-04T18:08:12Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "_3RBzUXD26aap4dNr0LULaGd6qY",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2015-03-04T09:54:34Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (3/18) : Installer git sur mac",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/install-git-mac-583\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMac a beau \u00eatre un environnement UNIX il ne dispose pas d'un gestionnaire de paquet. Il va donc falloir installer git en utilisant le package fournit sur [git-scm.com](http://git-scm.com). \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7EHCF8Oyohw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7EHCF8Oyohw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7EHCF8Oyohw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7EHCF8Oyohw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7EHCF8Oyohw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 3,
+      "resourceId": { "kind": "youtube#video", "videoId": "7EHCF8Oyohw" }
+    },
+    "contentDetails": {
+      "videoId": "7EHCF8Oyohw",
+      "videoPublishedAt": "2015-03-04T18:08:21Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Ln-P9zdJviVFUUVZ_r2P9WRgMsU",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2015-03-06T09:49:48Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (5/18) : Premiers commits",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/init-config-add-log-585\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous savons comment installer git nous allons pouvoir entrer dans le vif du sujet.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/chhVBZfRFgI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/chhVBZfRFgI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/chhVBZfRFgI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/chhVBZfRFgI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 4,
+      "resourceId": { "kind": "youtube#video", "videoId": "chhVBZfRFgI" }
+    },
+    "contentDetails": {
+      "videoId": "chhVBZfRFgI",
+      "videoPublishedAt": "2015-03-06T09:44:06Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "eXSK0pFogdxsnPLUHEO_oLOhjpk",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2015-03-06T09:49:48Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (6/18) : Revenir en arri\u00e8re",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/checkout-revert-reset-586\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nEcrire l'histoire c'est bien, revenir dans le temps c'est mieux ! Le gros int\u00e9r\u00eat du versioning c'est qu'il va nous permettre de revenir en arri\u00e8re en cas de probl\u00e8me. Pour cela on a plusieurs possibilit\u00e9s.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZY5A7kUR0S4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZY5A7kUR0S4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZY5A7kUR0S4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZY5A7kUR0S4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 5,
+      "resourceId": { "kind": "youtube#video", "videoId": "ZY5A7kUR0S4" }
+    },
+    "contentDetails": {
+      "videoId": "ZY5A7kUR0S4",
+      "videoPublishedAt": "2015-03-06T09:44:35Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "KsBIx3MdaO7_RNNmyNuaRtyagc8",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2015-03-06T09:49:48Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (7/18) : Les branches",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/branch-merge-587\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes branches permettent d'avoir un historique non lin\u00e9aire et permettent de travailler pendant un moment sur une fonctionnalit\u00e9 particuli\u00e8re sans pour autant \"polluer\" le flux principal. Elles peuvent servir pour travailler sur des fonctions sp\u00e9ciales mais aussi \u00eatre utilis\u00e9e pour garder une bonne organisation avec des branches qui correspondent \u00e0 nos diff\u00e9rents environnements (master, recipe, dev, bugfix...).\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/THsj6g_kG10/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/THsj6g_kG10/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/THsj6g_kG10/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/THsj6g_kG10/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 6,
+      "resourceId": { "kind": "youtube#video", "videoId": "THsj6g_kG10" }
+    },
+    "contentDetails": {
+      "videoId": "THsj6g_kG10",
+      "videoPublishedAt": "2015-03-06T09:44:48Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "lsIssvEgTee_G03RSmToMt1M9l4",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2015-03-06T09:49:48Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (8/18) : Manipuler l'historique",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/amend-rebase-588\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nManipuler l'historique peut parfois s'av\u00e9rer utile pour corriger un commit mal effectu\u00e9 mais aussi pour pr\u00e9parer une branche avant la fusion.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dnJ8Z1bpKCA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dnJ8Z1bpKCA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dnJ8Z1bpKCA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dnJ8Z1bpKCA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 7,
+      "resourceId": { "kind": "youtube#video", "videoId": "dnJ8Z1bpKCA" }
+    },
+    "contentDetails": {
+      "videoId": "dnJ8Z1bpKCA",
+      "videoPublishedAt": "2015-03-06T09:45:06Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "h0-VT2WHCtQ0UX4amuuplASsAhc",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2015-10-16T16:32:07Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (9/18) : Le remisage",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/stash-remisage-664\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nGit a chang\u00e9 notre fa\u00e7on de coder \u00e0 plusieurs. Mais certaines contraintes dues \u00e0 la nature d'un projet ou la r\u00e9partition des r\u00f4les dans une \u00e9quipe nous oblige parfois \u00e0 arr\u00eater le travail en cours et passer une autre branche, ce qui entra\u00eene un *commit* in\u00e9vitable.  Cela peut s'av\u00e9rer g\u00eanant, car on se retrouve avec des comits ne correspondant \u00e0 rien et rendant le projet instable. Heureusement, Guite a pens\u00e9 \u00e0 tout en mettant en place un syst\u00e8me de *remisage* qui va vous permettre de stocker temporairement les modifications que vous avez effectu\u00e9es pour pouvoir les r\u00e9habiliter plus tard (ceci permettra d'\u00e9viter des commit avec des messages du style \"Fix du bug de l'an 2000 in progress\").\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a_yIuISiJb4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a_yIuISiJb4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a_yIuISiJb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a_yIuISiJb4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a_yIuISiJb4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 8,
+      "resourceId": { "kind": "youtube#video", "videoId": "a_yIuISiJb4" }
+    },
+    "contentDetails": {
+      "videoId": "a_yIuISiJb4",
+      "videoPublishedAt": "2015-10-16T16:32:06Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jtVIKWncznbsIYtAjXfJPsTd5VI",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2015-03-06T09:49:48Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (10/18) : Remote",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/remote-push-pull-589\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nUtiliser un d\u00e9p\u00f4t git en local c'est bien, mais le gros int\u00e9r\u00eat du versionning c'est de pouvoir travailler \u00e0 distance mais aussi de collaborer \u00e0 plusieurs.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k-9Tf2enyFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k-9Tf2enyFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k-9Tf2enyFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k-9Tf2enyFc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 9,
+      "resourceId": { "kind": "youtube#video", "videoId": "k-9Tf2enyFc" }
+    },
+    "contentDetails": {
+      "videoId": "k-9Tf2enyFc",
+      "videoPublishedAt": "2015-03-06T09:49:33Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5vecsCGZNBoYTO5lj0OVTsSZ5BY",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2015-03-12T18:06:27Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (11/18) : Fork & Pull request",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/fork-pull-request-591\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons maintenant parler des services tiers [Bitbucket](https://bitbucket.org/) et [GitHub](https://github.com/) qui permettent d'h\u00e9berger vos projets versionn\u00e9s avec Git.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D5QGiIM1j20/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D5QGiIM1j20/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D5QGiIM1j20/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D5QGiIM1j20/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D5QGiIM1j20/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 10,
+      "resourceId": { "kind": "youtube#video", "videoId": "D5QGiIM1j20" }
+    },
+    "contentDetails": {
+      "videoId": "D5QGiIM1j20",
+      "videoPublishedAt": "2015-03-12T13:05:02Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "DeFMulQuobsh6Dun2maaFO3C1gA",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2015-03-19T15:28:15Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (14/18) : Source Tree",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/source-tree-592\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que l'on comprends bien le fonctionnement de Git, je vous propose de d\u00e9couvrir quelques logiciels qui vous permettrons de vous simplifier la t\u00e2che. Et on va commencer aujourd'hui par [Source Tree](http://www.sourcetreeapp.com).\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nHMiLdKe1BI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nHMiLdKe1BI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nHMiLdKe1BI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nHMiLdKe1BI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nHMiLdKe1BI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 11,
+      "resourceId": { "kind": "youtube#video", "videoId": "nHMiLdKe1BI" }
+    },
+    "contentDetails": {
+      "videoId": "nHMiLdKe1BI",
+      "videoPublishedAt": "2015-03-19T12:35:19Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "GjLb-xcO_nsnO3SEceChbNPJ7Xc",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2015-03-19T15:28:39Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (15/18) : Ungit",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/ungit-437\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nJe vous propose aujourd'hui de d\u00e9couvrir [Ungit](https://github.com/FredrikNoren/ungit). Cette application NodeJS va vous permettre de g\u00e9rer simplement et efficacement vos d\u00e9p\u00f4ts versionn\u00e9s avec Git gr\u00e2ce \u00e0 une interface originale.\u00a0\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DrQQyEEqmwI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DrQQyEEqmwI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DrQQyEEqmwI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DrQQyEEqmwI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 12,
+      "resourceId": { "kind": "youtube#video", "videoId": "DrQQyEEqmwI" }
+    },
+    "contentDetails": {
+      "videoId": "DrQQyEEqmwI",
+      "videoPublishedAt": "2013-11-08T16:23:02Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Mk7KIIPyzmIRCT3D1ZMhkST7FXs",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2016-02-02T16:24:14Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (12/18) : Git Flow",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/git-flow-742\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nComprendre le fonctionnement de git c'est une chose, arriver \u00e0 l'utiliser correctement c'est autre chose ! Ne vous inqui\u00e9tez pas, d'autres ont r\u00e9fl\u00e9chi \u00e0 la probl\u00e9matique en proposant une strat\u00e9gie particuli\u00e8re pour cr\u00e9er vos branches. La solution la plus connue est Git Flow. \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZQAQ4HcskAY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZQAQ4HcskAY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZQAQ4HcskAY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZQAQ4HcskAY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZQAQ4HcskAY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 13,
+      "resourceId": { "kind": "youtube#video", "videoId": "ZQAQ4HcskAY" }
+    },
+    "contentDetails": {
+      "videoId": "ZQAQ4HcskAY",
+      "videoPublishedAt": "2016-02-04T15:23:24Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ktzq59fP_M_uZzBhORH3HPJkChY",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC41Mzk2QTAxMTkzNDk4MDhF",
+    "snippet": {
+      "publishedAt": "2016-03-09T13:29:30Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (18/18) : GitKraken",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/gitkraken-749\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\n[GitKraken](http://www.gitkraken.com/) est un nouveau venu dans le monde des logiciels Git. D\u00e9velopp\u00e9 par [Axosoft](https://www.axosoft.com/) Gitkraken est actuellement en open b\u00eata et est d\u00e9j\u00e0 tr\u00e8s prometteur. Il est en ce moment tr\u00e8s souvent mis \u00e0 jour et dispose d\u00e9j\u00e0 de nombreuses fonctionnalit\u00e9s :\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/daBPgzan_wI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/daBPgzan_wI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/daBPgzan_wI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/daBPgzan_wI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/daBPgzan_wI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 14,
+      "resourceId": { "kind": "youtube#video", "videoId": "daBPgzan_wI" }
+    },
+    "contentDetails": {
+      "videoId": "daBPgzan_wI",
+      "videoPublishedAt": "2016-03-09T13:20:14Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "pEO-EjvN5bucXqPYomB5OrnZp34",
+    "id": "UExqd2RNZ3c1VFRMWHVZNWk3UlcwUXFHZFcwTlpudHFpUC5EQUE1NTFDRjcwMDg0NEMz",
+    "snippet": {
+      "publishedAt": "2018-07-04T22:34:17Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Comprendre Git (13/18) : Nommer ses commits",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/nommage-commit-1009\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNommer les choses n'est jamais facile et les commits de git n'\u00e9chappent pas \u00e0 la r\u00e8gle. Le probl\u00e8me d'un mauvais nommage est qu'il est ensuite difficile de retrouver un commit sp\u00e9cifique et il est donc important de trouver une convention particuli\u00e8re pour bien s'organiser.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AlHohDBBAMY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AlHohDBBAMY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AlHohDBBAMY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AlHohDBBAMY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AlHohDBBAMY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP",
+      "position": 15,
+      "resourceId": { "kind": "youtube#video", "videoId": "AlHohDBBAMY" }
+    },
+    "contentDetails": {
+      "videoId": "AlHohDBBAMY",
+      "videoPublishedAt": "2018-07-04T12:00:03Z"
+    },
+    "status": { "privacyStatus": "public" }
+  }
+]

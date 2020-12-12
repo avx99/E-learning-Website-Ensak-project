@@ -1,0 +1,679 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "s4uqm2C5XV77LkV9mR5OHf5t9mA",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (1/20) : Introduction",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/introduction-1093\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\n\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qrmLVJBJ-D4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qrmLVJBJ-D4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qrmLVJBJ-D4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qrmLVJBJ-D4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 0,
+      "resourceId": { "kind": "youtube#video", "videoId": "qrmLVJBJ-D4" }
+    },
+    "contentDetails": {
+      "videoId": "qrmLVJBJ-D4",
+      "videoPublishedAt": "2013-11-13T16:44:32Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Di5o9YOlkn_PosNP_o8Prx1NJ6s",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (2/20) : Qu\u2019est ce que MySQL ?",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/apropos-mysql-343\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvant de se lancer t\u00eate baiss\u00e9e dans l'installation et l'utilisation de MySQL il est important de comprendre ce qu'est MySQL.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rm8KK3oM2J0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rm8KK3oM2J0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rm8KK3oM2J0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Rm8KK3oM2J0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 1,
+      "resourceId": { "kind": "youtube#video", "videoId": "Rm8KK3oM2J0" }
+    },
+    "contentDetails": {
+      "videoId": "Rm8KK3oM2J0",
+      "videoPublishedAt": "2013-11-08T13:02:30Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "wC6ditqcf7WlRBNE_ad3k2CTRWA",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (3/20) : Installation",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/install-mysql-344\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvant de pouvoir utiliser MySQL il faut \u00e9videmment commencer par l'installer. Pour cela 2 solutions s'offrent \u00e0 vous :\u00a0\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BudSQfQtuQs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BudSQfQtuQs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BudSQfQtuQs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BudSQfQtuQs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 2,
+      "resourceId": { "kind": "youtube#video", "videoId": "BudSQfQtuQs" }
+    },
+    "contentDetails": {
+      "videoId": "BudSQfQtuQs",
+      "videoPublishedAt": "2013-11-08T13:02:30Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "fkhs-O1nxfoiBZtnuSqzgtaaZ38",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (4/20) : PHPMyAdmin",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/administrer-mysql-phpmyadmin-345\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nPHPMyAdmin est une application d\u00e9velopp\u00e9e en PHP qui permet de g\u00e9rer ses bases de donn\u00e9es avec une interface graphique. Cette application est largement r\u00e9pandue et vous serez ammen\u00e9 \u00e0 l'utiliser assez souvent.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fOpf1U6M0kY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fOpf1U6M0kY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fOpf1U6M0kY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fOpf1U6M0kY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 3,
+      "resourceId": { "kind": "youtube#video", "videoId": "fOpf1U6M0kY" }
+    },
+    "contentDetails": {
+      "videoId": "fOpf1U6M0kY",
+      "videoPublishedAt": "2013-11-08T13:02:30Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "5y2u0SHvczbCmhrY9RsEUkuarr4",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (5/20) : Cr\u00e9er une base de donn\u00e9es",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/create-database-347\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvant de pouvoir cr\u00e9er nos table il faut commencer par cr\u00e9er une base de donn\u00e9e qui nous permettra de stocker les diff\u00e9rentes informations associ\u00e9es \u00e0 notre site Web.\u00a0\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FDhgSaVapEI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FDhgSaVapEI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FDhgSaVapEI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FDhgSaVapEI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 4,
+      "resourceId": { "kind": "youtube#video", "videoId": "FDhgSaVapEI" }
+    },
+    "contentDetails": {
+      "videoId": "FDhgSaVapEI",
+      "videoPublishedAt": "2013-11-08T13:02:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "FBsEF7xk3Tn37p9oZ3hwgQO7zio",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (6/20) : Cr\u00e9er une table",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/create-table-348\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous avons vu comment cr\u00e9er notre base de donn\u00e9es, nous sommes en mesure de cr\u00e9er les tables qui permettront de stocker les diff\u00e9rentes informations de notre application web.\u00a0\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ve2sEsM6i_w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ve2sEsM6i_w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ve2sEsM6i_w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ve2sEsM6i_w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 5,
+      "resourceId": { "kind": "youtube#video", "videoId": "ve2sEsM6i_w" }
+    },
+    "contentDetails": {
+      "videoId": "ve2sEsM6i_w",
+      "videoPublishedAt": "2013-11-08T13:02:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "EZ6dMpBiuSedY9rX7owFH6IEpS0",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (7/20) : Ins\u00e9rer des donn\u00e9es, INSERT INTO",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/insert-into-349\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons maintenant rentrer dans le vif du sujet avec les requ\u00eates SQL principales.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MZo0-00NcoU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MZo0-00NcoU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MZo0-00NcoU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MZo0-00NcoU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 6,
+      "resourceId": { "kind": "youtube#video", "videoId": "MZo0-00NcoU" }
+    },
+    "contentDetails": {
+      "videoId": "MZo0-00NcoU",
+      "videoPublishedAt": "2013-11-08T13:02:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Z8edjryUEa7-us3jXiQfBVxT960",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (8/20) : Supprimer des donn\u00e9es, DELETE FROM",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/delete-from-350\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nApr\u00e8s avoir enregistr\u00e9 nos premi\u00e8res donn\u00e9es nous allons maintenant voir comment les supprimer.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZDncKWp-Q4A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZDncKWp-Q4A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZDncKWp-Q4A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZDncKWp-Q4A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 7,
+      "resourceId": { "kind": "youtube#video", "videoId": "ZDncKWp-Q4A" }
+    },
+    "contentDetails": {
+      "videoId": "ZDncKWp-Q4A",
+      "videoPublishedAt": "2013-11-08T13:02:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xUcHn-y1TtO0CnNojo6NcWAKkj4",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (9/20) : Modifier des donn\u00e9es, UPDATE",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/update-351\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nUne base de donn\u00e9es n'est pas fig\u00e9e, il faut pouvoir faire \u00e9voluer les donn\u00e9es et donc pouvoir les modifier.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WV_il2jaeDQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WV_il2jaeDQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WV_il2jaeDQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WV_il2jaeDQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 8,
+      "resourceId": { "kind": "youtube#video", "videoId": "WV_il2jaeDQ" }
+    },
+    "contentDetails": {
+      "videoId": "WV_il2jaeDQ",
+      "videoPublishedAt": "2013-11-08T13:07:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "SYl9uMNedI65if6wrriDvfjaciY",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (10/20) : S\u00e9lectionner des donn\u00e9es, SELECT",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/select-352\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nPour cr\u00e9er un site dynamique il est imp\u00e9ratif de savoir r\u00e9cup\u00e9rer les donn\u00e9es de notre base de donn\u00e9es.\u00a0\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dqjhv5AdapE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dqjhv5AdapE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dqjhv5AdapE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dqjhv5AdapE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 9,
+      "resourceId": { "kind": "youtube#video", "videoId": "Dqjhv5AdapE" }
+    },
+    "contentDetails": {
+      "videoId": "Dqjhv5AdapE",
+      "videoPublishedAt": "2013-11-08T13:07:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "cWt4S6fBUVwgeuGNhO-Vxy9WiBg",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (11/20) : Fonctions num\u00e9riques",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/numeric-functions-mysql-353\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous avons vu les requ\u00eates de bases je vous propose de\u00a0d\u00e9couvrir\u00a0les fonctions au sein de MySQL.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vDfw85uPHZk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vDfw85uPHZk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vDfw85uPHZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vDfw85uPHZk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 10,
+      "resourceId": { "kind": "youtube#video", "videoId": "vDfw85uPHZk" }
+    },
+    "contentDetails": {
+      "videoId": "vDfw85uPHZk",
+      "videoPublishedAt": "2013-11-08T13:07:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "z9WWby_hFugZtfNxII8quC5qtjY",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (12/20) : Fonctions sur les textes",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/function-text-354\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvec MySQL il est aussi possible de [manipuler les cha\u00eenes de caract\u00e8res](http://dev.mysql.com/doc/refman/5.0/en/string-functions.html) pour faire les diff\u00e9rentes op\u00e9rations dont on pourrait avoir besoin. Ce ne sont pas\u00a0des fonctions que l'on rencontre quotidiennement lorsque l'on travaille avec MySQL mais il est important de les\u00a0connaitre.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eGs0kK6e-Ik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eGs0kK6e-Ik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eGs0kK6e-Ik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eGs0kK6e-Ik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 11,
+      "resourceId": { "kind": "youtube#video", "videoId": "eGs0kK6e-Ik" }
+    },
+    "contentDetails": {
+      "videoId": "eGs0kK6e-Ik",
+      "videoPublishedAt": "2013-11-08T13:07:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "LyDgefLzQ_w0GaaeRIbERpYkE98",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (13/20) : Fonctions temporelles",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/fonctions-dates-355\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvec MySQL il est aussi possible de\u00a0[manipuler les dates](http://dev.mysql.com/doc/refman/5.6/en/date-and-time-functions.html)\u00a0pour faire les diff\u00e9rentes op\u00e9rations dont on pourrait avoir besoin. Ce sont des fonctions tr\u00e8s utiles que vous retrouverez souvent en travaillant avec MySQL.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5m91UkRsHmo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5m91UkRsHmo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5m91UkRsHmo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5m91UkRsHmo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 12,
+      "resourceId": { "kind": "youtube#video", "videoId": "5m91UkRsHmo" }
+    },
+    "contentDetails": {
+      "videoId": "5m91UkRsHmo",
+      "videoPublishedAt": "2013-11-08T13:02:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "lK1BTc20W4ZgLy7ch5L8TPHxZu4",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (14/20) : Dumps",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/dumps-356\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous avons vu les fonctionnalit\u00e9s de base de MySQL nous allons voir comment g\u00e9rer la sauvegarde et l'import de donn\u00e9es : **les Dumps**.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f7HZC7lFH8I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f7HZC7lFH8I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f7HZC7lFH8I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f7HZC7lFH8I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 13,
+      "resourceId": { "kind": "youtube#video", "videoId": "f7HZC7lFH8I" }
+    },
+    "contentDetails": {
+      "videoId": "f7HZC7lFH8I",
+      "videoPublishedAt": "2013-11-08T13:02:31Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Pq6Ml679VvdiecyNW_wM7A3KxCU",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by41Mzk2QTAxMTkzNDk4MDhF",
+    "snippet": {
+      "publishedAt": "2013-11-14T02:10:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre MySQL (20/20) : Conclusion",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/conclusion-formation-mysql-363\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\n\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LF6pxMmIjOs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LF6pxMmIjOs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LF6pxMmIjOs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LF6pxMmIjOs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 14,
+      "resourceId": { "kind": "youtube#video", "videoId": "LF6pxMmIjOs" }
+    },
+    "contentDetails": {
+      "videoId": "LF6pxMmIjOs",
+      "videoPublishedAt": "2013-11-08T13:02:30Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "H9F7Q0wOZD-Ei-eLGyfEsVufdNU",
+    "id": "UExqd2RNZ3c1VFRMVUpMcHpVWUdCSzdLNS1oUGdaQTd6by5EQUE1NTFDRjcwMDg0NEMz",
+    "snippet": {
+      "publishedAt": "2019-10-30T09:50:27Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Pourquoi MySQL me donne une erreur only_full_group_by ?",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/only-full-group-by-sql-1206\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nVous essayez de faire un GROUP BY et vous rencontrez l'erreur suivante :\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CgZrGW9VEjE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CgZrGW9VEjE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CgZrGW9VEjE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CgZrGW9VEjE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CgZrGW9VEjE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo",
+      "position": 15,
+      "resourceId": { "kind": "youtube#video", "videoId": "CgZrGW9VEjE" }
+    },
+    "contentDetails": {
+      "videoId": "CgZrGW9VEjE",
+      "videoPublishedAt": "2019-10-30T09:55:41Z"
+    },
+    "status": { "privacyStatus": "public" }
+  }
+]

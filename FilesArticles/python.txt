@@ -1,0 +1,113 @@
+<center><h1>Cours Python</h1></center>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Découvrez Python</h3>
+<p>
+    Vous avez décidé d'apprendre le Python et je ne peux que vous en féliciter. 
+    J'essayerai d'anticiper vos questions et de ne laisser personne en arrière.
+    Dans ce chapitre, je vais d'abord vous expliquer ce qu'est un langage de programmation. 
+    Nous verrons ensuite brièvement l'histoire de Python, afin que vous sachiez au moins d'où vient ce langage ! 
+    Ce chapitre est théorique mais je vous conseille vivement de le lire quand même.
+    La dernière section portera sur l'installation de Python, une étape essentielle pour continuer ce tutoriel. 
+    Que vous travailliez avec Windows, Linux ou Mac OS X, 
+    vous y trouverez des explications précises sur l'installation.
+    Allez, on attaque !
+</p>
+
+
+<h3 style="padding: 10px 0px; color: #13283D;">La communication humaine</h3>
+<p>
+Non, ceci n'est pas une explication biologique ou philosophique, ne partez pas !
+Très simplement, si vous arrivez à comprendre ces suites de symboles étranges et déconcertants 
+que sont les lettres de l'alphabet, c'est parce que nous respectons certaines conventions, 
+dans le langage et dans l'écriture. En français, il y a des règles de grammaire et d'orthographe, 
+je ne vous apprends rien. Vous communiquez en connaissant plus ou moins consciemment ces règles 
+et en les appliquant plus ou moins bien, selon les cas.
+Cependant, ces règles peuvent être aisément contournées : personne ne peut prétendre connaître l'ensemble des règles de la grammaire et de l'orthographe françaises, et peu de gens s'en soucient. Après tout, même si vous faites des fautes, les personnes avec qui vous communiquez pourront facilement vous comprendre.
+Quand on communique avec un ordinateur, cependant, c'est très différent.</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Mon ordinateur communique aussi !</h3>
+
+<p>Eh oui, votre ordinateur communique sans cesse avec vous et vous communiquez sans cesse avec lui. D'accord, 
+il vous dit très rarement qu'il a faim, que l'été s'annonce caniculaire et que le dernier 
+disque de ce groupe très connu était à pleurer.
+Il n'y a rien de magique si, quand vous cliquez sur la petite croix en haut à droite de l'application en cours, 
+celle-ci comprend qu'elle doit se fermer.</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Le langage machine</h3>
+
+<p>En fait, votre ordinateur se fonde aussi sur un langage pour communiquer avec vous ou avec lui-même. 
+Les opérations qu'un ordinateur peut effectuer à la base sont des plus classiques et constituées 
+de l'addition de deux nombres, leur soustraction, leur multiplication, leur division, entière ou non. 
+Et pourtant, ces cinq opérations suffisent amplement à faire fonctionner les logiciels de 
+simulation les plus complexes ou les jeux super-réalistes.</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Faites vos premiers pas avec l'interpréteur de commandes Python</h3>
+
+<p>
+    Après les premières notions théoriques et l'installation de Python, il est temps de découvrir 
+    un peu l'interpréteur de commandes de ce langage. Même si ces petits tests vous semblent anodins, 
+    vous découvrirez dans ce chapitre les premiers rudiments de la syntaxe du langage et je vous conseille 
+    fortement de me suivre pas à pas, surtout si vous êtes face à votre premier langage de programmation.
+    Comme tout langage de programmation, Python a une syntaxe claire : on ne peut pas lui envoyer
+    n'importe quelle information dans n'importe quel ordre. Nous allons voir ici ce que Python mange… 
+    et ce qu'il ne mange pas.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Entrez dans le monde merveilleux des variables</h3>
+
+<p>
+    Au chapitre précédent, vous avez saisi vos premières instructions en langage Python, 
+    bien que vous ne vous en soyez peut-être pas rendu compte. Il est également vrai que 
+    les instructions saisies auraient fonctionné dans la plupart des langages. Ici, cependant, 
+    nous allons commencer à approfondir un petit peu la syntaxe du langage, tout en découvrant 
+    un concept important de la programmation : les variables.
+    Ce concept est essentiel et vous ne pouvez absolument pas faire l'impasse dessus. 
+    Mais je vous rassure, il n'y a rien de compliqué, que de l'utile et de l'agréable.
+</p>
+
+
+<h3 style="padding: 10px 0px; color: #13283D;">C'est quoi, une variable ? Et à quoi cela sert-il ?</h3>
+<p>
+Les variables sont l'un des concepts qui se retrouvent dans la majorité 
+(et même, en l'occurrence, la totalité) des langages de programmation. 
+Autant dire que sans variable, on ne peut pas programmer, et ce n'est pas une exagération.
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;">C'est quoi, une variable ?</h3>
+<p>
+Une variable est une donnée de votre programme, stockée dans votre ordinateur. 
+C'est un code alpha-numérique que vous allez lier à une donnée de votre programme, 
+afin de pouvoir l'utiliser à plusieurs reprises et faire des calculs un peu plus intéressants avec. 
+C'est bien joli de savoir faire des opérations mais, si on ne peut pas stocker 
+le résultat quelque part, cela devient très vite ennuyeux.
+Voyez la mémoire de votre ordinateur comme une grosse armoire avec plein de tiroirs. 
+Chaque tiroir peut contenir une donnée ; 
+certaines de ces données seront des variables de votre programme.</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Comment cela fonctionne-t-il ?</h3>
+<p>
+Le plus simplement du monde. Vous allez dire à Python : « je veux que, dans une variable que je nommeage,
+tu stockes mon âge, pour que je puisse le retenir (si j'ai la mémoire très courte), 
+l'augmenter (à mon anniversaire) et l'afficher si besoin est ».
+Comme je vous l'ai dit, on ne peut pas passer à côté des variables. 
+Vous ne voyez peut-être pas encore tout l'intérêt de stocker des informations de votre programme 
+et pourtant, si vous ne stockez rien, vous ne pouvez pratiquement rien faire.
+En Python, pour donner une valeur à une variable, il suffit d'écrirenom_de_la_variable = valeur.
+Une variable doit respecter quelques règles de syntaxe incontournables :
+Le nom de la variable ne peut être composé que de lettres, majuscules ou minuscules, 
+de chiffres et du symbole souligné « _ » (appelé underscore en anglais).
+Le nom de la variable ne peut pas commencer par un chiffre.
+Le langage Python est sensible à la casse, ce qui signifie que des lettres majuscules et minuscules 
+ne constituent pas la même variable (la variableAGEest différente deaGe, elle-même différente deage).
+
+Au-delà de ces règles de syntaxe incontournables, il existe des conventions définies par 
+les programmeurs eux-mêmes. L'une d'elles, que j'ai tendance à utiliser assez souvent, 
+consiste à écrire la variable en minuscules et à remplacer les espaces éventuels par un espace souligné « _ ». 
+Si je dois créer une variable contenant mon âge, elle se nommera doncmon_age. 
+Une autre convention utilisée consiste à passer en majuscule le premier caractère de chaque mot, 
+à l'exception du premier mot constituant la variable. La variable contenant mon âge se nommerait alorsmonAge.
+
+Vous pouvez utiliser la convention qui vous plaît, ou même en créer une bien à vous, 
+mais essayez de rester cohérent et de n'utiliser qu'une seule convention d'écriture. 
+En effet, il est essentiel de pouvoir vous repérer dans vos variables dès que vous commencez à travailler
+ sur des programmes volumineux
+</p>

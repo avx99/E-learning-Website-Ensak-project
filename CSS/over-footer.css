@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*
+#13283D
+#006494
+#247BA0
+#E8F1F2
+#1B98E0
+*/
+
+.over-footer{
+    display: flex;
+    background-color:  #13283D;
+    margin: 5px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.over-footer .commentaire{
+    width: 20%;
+    border-radius: 5px;
+ }
+.over-footer .commentaire form textarea{
+    background-color: #13283D;
+    color: aliceblue;
+    border-radius: 5px;
+    margin-top: 12px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.over-footer .commentaire input{
+    height: 30px;
+    width: 90px;
+    color: #E8F1F2;
+    background-color: #006494;
+    border-radius: 15px;
+    border: none;
+    float: right;
+    margin: 13px 10px;
+}
+
+.over-footer .commentaire input:hover{
+    background-color:  rgba(00, 64, 94, 1);
+}
+
+.over-footer .related-contents{
+    display: flex;
+    width: 75%;
+    border-radius: 5px;   
+    float: right;  
+}
+
+.over-footer .related-contents .related{
+    width: 30%;
+    display: flex;
+    margin-left: 45px;
+    padding-left: 20px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding-top: 30px;  
+    padding-bottom: 30px;  
+    text-align: center;
+
+}
+
+.over-footer .related-contents .related .imgg{
+    float: left;
+    width: 120px;
+    height: 90px;
+    border-radius: 5px;
+}
+
+.over-footer .related-contents .related h3{
+    float: right;
+    color: black;
+    padding: 10px 10px;
+}
+
+
+

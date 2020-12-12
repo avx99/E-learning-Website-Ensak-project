@@ -1,0 +1,143 @@
+
+<center><h1 style="padding: 10px 0px; color: #13283D;">Cours Java</h1></center>
+<h3 style="padding: 10px 0px; color: #13283D;">Introduction</h3>
+<p style="font-size:16px; line-height:30px;">
+Bienvenue dans mon cours de programmation en Java. C'est un langage très utilisé, 
+notamment par un grand nombre de programmeurs professionnels, 
+ce qui en fait un langage incontournable actuellement.
+
+Voici les caractéristiques de Java en quelques mots :
+
+Java est un langage de programmation moderne développé par Sun Microsystems 
+(aujourd'hui racheté par Oracle). Il ne faut surtout pas le confondre avec JavaScript 
+(langage de scripts utilisé principalement sur les sites web), car Java n'a rien à voir.
+Une de ses plus grandes forces est son excellente portabilité : 
+une fois votre programme créé, il fonctionnera automatiquement sous Windows, Mac, Linux, etc.
+
+Comme vous le voyez, Java permet de réaliser une très grande quantité d'applications différentes 
+! Mais... comment apprendre un langage si vaste qui offre autant de possibilités ? 
+Avant de commencer, je vous propose un petit rappel sur le fonctionnement d'un ordinateur 
+et particulièrement sur la façon dont ce dernier interprète notre façon de voir le monde…
+here_the_end
+Heureusement, ce cours est là pour tout vous apprendre de Java à partir de zéro .
+À l'issue de ce cours, vous serez capable de :<br>
+
+    Utiliser la syntaxe Java<br>
+    Installer les outils de développement Java<br>
+    Mettre en œuvre les concepts de la programmation orientée objet<br>
+    Mettre en œuvre les concepts de la programmation événementielle<br>
+    Appréhendez les interfaces graphiques<br>
+    Interagir avec une base de données<br>
+</p><br>
+
+
+<h3 style="padding: 10px 0px; color: #13283D;">Créez des variables et des opérateurs</h3>
+
+<p>
+    Nous commençons maintenant sérieusement la programmation. Dans ce chapitre, 
+    nous allons découvrir les variables. On les retrouve dans la quasi-totalité des langages de programmation. 
+    Une variable est un élément qui stocke des informations de toute sorte en mémoire : 
+    des chiffres, des résultats de calcul, des tableaux, des renseignements fournis par l'utilisateur…
+    Vous ne pourrez pas programmer sans variables. Il est donc indispensable que je vous les présente !
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Petit rappel</h3>
+
+<p>
+    Avant de commencer, je vous propose un petit rappel sur le fonctionnement d'un ordinateur 
+    et particulièrement sur la façon dont ce dernier interprète notre façon de voir le monde…
+    Vous n'êtes pas sans savoir que votre ordinateur ne parle qu'une seule langue : 
+    le binaire ! Le langage binaire est une simple suite de 0 et de 1. 
+    Vous devez vous rendre compte qu'il nous serait très difficile, en tant qu'êtres humains, 
+    d'écrire des programmes informatiques pour expliquer à nos ordinateurs ce qu'ils doivent faire, 
+    entièrement en binaire… Vous imaginez ! Des millions de 0 et de 1 qui se suivent ! Non, 
+    ce n'était pas possible ! De ce fait, des langages de programmation ont été créés afin que 
+    nous ayons à disposition des instructions claires pour créer nos programmes. 
+    Ces programmes sont ensuite compilés pour que nos instructions humainement compréhensibles soient, 
+    après coup, compréhensible par votre machine.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Apprenez à lire les entrées clavier</h3>
+
+<p>
+    Après la lecture de ce chapitre, vous pourrez saisir des informations et les stocker dans 
+    des variables afin de pouvoir les utiliser a posteriori.
+    En fait, jusqu'à ce que nous voyions les interfaces graphiques, nous travaillerons en mode console.0
+    Donc, afin de rendre nos programmes plus ludiques, il est de bon ton de pouvoir interagir avec ceux-ci. 
+    Par contre, ceci peut engendrer des erreurs (on parlera d'exceptions, mais ce sera traité plus loin). 
+    Afin de ne pas surcharger le chapitre, nous survolerons ce point sans voir les différents cas d'erreurs 
+    que cela peut engendrer.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">La classe Scanner</h3>
+<p>
+    Je me doute qu'il vous tardait de pouvoir communiquer avec votre application… Le moment est enfin venu ! 
+    Mais je vous préviens, la méthode que je vais vous donner présente des failles. 
+    Je vous fais confiance pour ne pas rentrer n'importe quoi n'importe quand !
+    Je vous ai dit que vos variables de typeStringsont en réalité des objets de typeString. 
+    Pour que Java puisse lire ce que vous tapez au clavier, vous allez devoir utiliser un objet de typeScanner. 
+    Cet objet peut prendre différents paramètres, mais ici nous n'en utiliserons qu'un : 
+    celui qui correspond à l'entrée standard en Java. Lorsque vous faitesSystem.out.println();, 
+    je vous rappelle que vous appliquez la méthodeprintln()sur la sortie standard ; 
+    ici, nous allons utiliser l'entrée standardSystem.in. 
+    Donc, avant d'indiquer à Java qu'il faut lire ce que nous allons taper au clavier, 
+    nous devrons instancier un objetScanner. Avant de vous expliquer ceci, 
+    créez une nouvelle classe et tapez cette ligne de code dans votre méthode main :
+
+    Scanner sc = new Scanner(System.in);
+
+    Vous devez avoir une jolie vague rouge sous le motScanner. 
+    Cliquez sur la croix rouge sur la gauche et faites un double-clic surImport 'Scanner' java.util(figure suivante). 
+    Et là, l'erreur disparaît !
+
+    import java.util.Scanner;
+
+    Voilà ce que nous avons fait. Je vous ai dit qu'il fallait indiquer à Java où se trouve la classeScanner.
+    Pour faire ceci, nous devons importer la classeScannergrâce à l'instructionimport. 
+    La classe que nous voulons se trouve dans le packagejava.util.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Récupérer ce que vous tapez</h3>
+<p>
+    Voici l'instruction pour permettre à Java de récupérer ce que vous avez saisi pour ensuite l'afficher :
+<br>
+    Scanner sc = new Scanner(System.in);<br>
+    System.out.println("Veuillez saisir un mot :");<br>
+    String str = sc.nextLine();<br>
+    System.out.println("Vous avez saisi : " + str);<br>
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Définissez des conditions</h3>
+
+<p>
+    Nous abordons ici l'un des chapitres les plus importants : 
+    les conditions sont une autre notion fondamentale de la programmation. 
+    En effet, ce qui va être développé ici s'applique à énormément de langages de programmation,
+     et pas seulement à Java.
+
+    Dans une classe, la lecture et l'exécution se font de façon séquentielle, c'est-à-dire ligne par ligne. 
+    Avec les conditions, nous allons pouvoir gérer différents cas de figure sans pour autant lire tout le code.
+    Vous vous rendrez vite compte que tous vos projets ne sont que des enchaînements et des imbrications
+    de conditions et de boucles (notion que l'on abordera au chapitre suivant).
+    Assez de belles paroles ! Entrons tout de suite dans le vif du sujet.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">La structure if… else</h3>
+
+<p>
+    Avant de pouvoir créer et évaluer des conditions, vous devez savoir que pour y parvenir, nous allons utiliser ce qu'on appelle des « opérateurs logiques ». Ceux-ci sont surtout utilisés lors de conditions (si [test] alors [faire ceci]) pour évaluer différents cas possibles. Voici les différents opérateurs à connaître :
+
+« == » : permet de tester l'égalité.<br>
+« != » : permet de tester l’inégalité.<br>
+« < » : strictement inférieur.<br>
+« <= » : inférieur ou égal.<br>
+« > » : strictement supérieur.<br>
+« >= » : supérieur ou égal.<br>
+« && » : l'opérateur ET. Il permet de préciser une condition<br>
+« || » : le OU. Même combat que le précédent.<br>
+«  ? : » : l'opérateur ternaire.<br>
+Pour celui-ci, vous comprendrez mieux avec un exemple qui sera donné vers la fin de ce chapitre.
+</p>
+
+
+

@@ -1,0 +1,1271 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ko8pG5FJQBBXfT0PtckmfNDn7SM",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2016-05-11T12:28:23Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 1, Introduction",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/introduction-1085\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\n\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PIU_2SBSZgw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PIU_2SBSZgw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PIU_2SBSZgw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PIU_2SBSZgw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PIU_2SBSZgw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 0,
+      "resourceId": { "kind": "youtube#video", "videoId": "PIU_2SBSZgw" }
+    },
+    "contentDetails": {
+      "videoId": "PIU_2SBSZgw",
+      "videoPublishedAt": "2016-05-30T12:12:52Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "D8xBkVmz0bHxqQTUlM_4oWxIaiU",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 2, Apprendre le JavaScript depuis le PHP",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/php-to-js-769\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLe probl\u00e8me lorsque l'on cherche \u00e0 apprendre un nouveau langage est que l'on se retape syst\u00e9matiquement les bases : Les variables, les fonctions, les conditions... Ce qui peut s'av\u00e9rer p\u00e9nible lorsque l'on connait d\u00e9j\u00e0 un autre langage de programmation. Aussi, je vous propose d'utiliser les connaissances que vous avez d\u00e9j\u00e0 en PHP afin d'acc\u00e9lerer votre apprentissage du JavaScript.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ECuaZxM82fw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ECuaZxM82fw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ECuaZxM82fw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ECuaZxM82fw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ECuaZxM82fw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 1,
+      "resourceId": { "kind": "youtube#video", "videoId": "ECuaZxM82fw" }
+    },
+    "contentDetails": {
+      "videoId": "ECuaZxM82fw",
+      "videoPublishedAt": "2016-05-30T12:12:51Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "6T4JJyo_88sKZ61zkSpT0ApPumM",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2016-05-11T12:30:14Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 3, Les Variables",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/variables-765\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes variables permettent de garder en m\u00e9moire une valeur lors de l'\u00e9x\u00e9cution d'un script. Elles sont essentielles au bon fonctionnement de nos algorithme.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L8yNc1xqAw8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L8yNc1xqAw8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L8yNc1xqAw8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L8yNc1xqAw8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L8yNc1xqAw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 2,
+      "resourceId": { "kind": "youtube#video", "videoId": "L8yNc1xqAw8" }
+    },
+    "contentDetails": {
+      "videoId": "L8yNc1xqAw8",
+      "videoPublishedAt": "2016-05-30T12:12:52Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "UH1Adi4c158YKmdpIcQHaUXzkaw",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2016-05-12T14:09:17Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 4, Les Conditions",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/conditions-766\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLorsque l'on souhaite \u00e9crire des algorithmes Il est important d'\u00eatre capable de tester si une valeur est bien celle attendue. On va donc d\u00e9couvrir maintenant les conditions.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DmHuw9dGYRw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DmHuw9dGYRw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DmHuw9dGYRw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DmHuw9dGYRw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DmHuw9dGYRw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 3,
+      "resourceId": { "kind": "youtube#video", "videoId": "DmHuw9dGYRw" }
+    },
+    "contentDetails": {
+      "videoId": "DmHuw9dGYRw",
+      "videoPublishedAt": "2016-05-31T12:05:39Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "KekPnYB0RZCcOK5nd3WwRNwg6Fk",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 5, Les Boucles",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/boucles-767\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce nouveau chapitre nous allons parler des boucles. Les boucles permettent de r\u00e9p\u00e9ter une certaine logique suivant une condition pr\u00e9cise. Il existe plusieurs mani\u00e8res de cr\u00e9er des boucles : \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jgt_VqnGPHg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jgt_VqnGPHg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jgt_VqnGPHg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jgt_VqnGPHg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jgt_VqnGPHg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 4,
+      "resourceId": { "kind": "youtube#video", "videoId": "jgt_VqnGPHg" }
+    },
+    "contentDetails": {
+      "videoId": "jgt_VqnGPHg",
+      "videoPublishedAt": "2016-06-01T12:03:27Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "4Ezxv_1-JMcLuTJL7YZamUgiMN8",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 6, Les Fonctions",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/fonctions-768\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nEcrire le code \"comme il arrive\" est suffisant pour un algorithme simple mais on va \u00eatre tr\u00e8s rapidement amen\u00e9 \u00e0 r\u00e9p\u00e9ter une m\u00eame logique plusieurs fois. Pour rem\u00e9dier \u00e0 ce probl\u00e8me, il est possible d'\u00e9crire des **fonctions**.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pggJ5s6sTpk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pggJ5s6sTpk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pggJ5s6sTpk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pggJ5s6sTpk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pggJ5s6sTpk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 5,
+      "resourceId": { "kind": "youtube#video", "videoId": "pggJ5s6sTpk" }
+    },
+    "contentDetails": {
+      "videoId": "pggJ5s6sTpk",
+      "videoPublishedAt": "2016-06-02T11:34:20Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "KQz8BIvQ-r6qYRVBx-GwT24iZA4",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 7, Port\u00e9e des variables & Hoisting",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/scope-hoisting-770\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous n'allons rien apprendre de nouveau aujourd'hui mais nous allons faire le point sur une notion importante : La port\u00e9e des variables (scope en anglais).\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rMSqsMFAcKI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rMSqsMFAcKI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rMSqsMFAcKI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rMSqsMFAcKI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rMSqsMFAcKI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 6,
+      "resourceId": { "kind": "youtube#video", "videoId": "rMSqsMFAcKI" }
+    },
+    "contentDetails": {
+      "videoId": "rMSqsMFAcKI",
+      "videoPublishedAt": "2016-06-03T12:04:10Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "mpmJY1yVky0D5NOgt-mssGwaGT4",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 8, L'op\u00e9rateur this",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/this-772\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nL'op\u00e9rateur `this` est une sorte de super variable qui prendra diff\u00e9rentes valeurs suivant le contexte dans lequelle elle est utilis\u00e9e.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IudrkWwOw8Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IudrkWwOw8Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IudrkWwOw8Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IudrkWwOw8Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IudrkWwOw8Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 7,
+      "resourceId": { "kind": "youtube#video", "videoId": "IudrkWwOw8Y" }
+    },
+    "contentDetails": {
+      "videoId": "IudrkWwOw8Y",
+      "videoPublishedAt": "2016-06-03T12:34:24Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "GtutdiPCOhclNpTPmYbWvKurj1Q",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4zRjM0MkVCRTg0MkYyQTM0",
+    "snippet": {
+      "publishedAt": "2018-03-12T21:10:28Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 9, Les prototypes",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/prototype-779\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce chapitre nous allons faire le point sur le fonctionnement interne des objets en JavaScript et on va parler de la notion de [prototype](https://developer.mozilla.org/fr/docs/Web/JavaScript/H%C3%A9ritage_et_cha%C3%AEne_de_prototypes).\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q9eaEnfIfz4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q9eaEnfIfz4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q9eaEnfIfz4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q9eaEnfIfz4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q9eaEnfIfz4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 8,
+      "resourceId": { "kind": "youtube#video", "videoId": "q9eaEnfIfz4" }
+    },
+    "contentDetails": {
+      "videoId": "q9eaEnfIfz4",
+      "videoPublishedAt": "2016-06-10T15:20:18Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "8Ip4zK7-B2bN7s2m4B9B6nWpWPg",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy45NzUwQkI1M0UxNThBMkU0",
+    "snippet": {
+      "publishedAt": "2018-03-12T21:10:41Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 10, Try Catch",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/try-catch-782\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce chapitre nous allons voir comment capturer les erreurs de nos scripts en JavaScript.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/riBYBQWw0xM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/riBYBQWw0xM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/riBYBQWw0xM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/riBYBQWw0xM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/riBYBQWw0xM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 9,
+      "resourceId": { "kind": "youtube#video", "videoId": "riBYBQWw0xM" }
+    },
+    "contentDetails": {
+      "videoId": "riBYBQWw0xM",
+      "videoPublishedAt": "2016-06-27T14:31:20Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xW418OLR5TsVK9WFo3irgNBiXeY",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 11, L'objet Window",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/window-773\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons maintenant voir comment \u00e9crire du JavaScript c\u00f4t\u00e9 navigateur. Le navigateur ne change pas notre mani\u00e8re d'\u00e9crire le code, mais donne acc\u00e8s \u00e0 de nouveaux objets qui permettent d'int\u00e9ragir avec l'utilisateur ou le navigateur.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PtwkSKp8F4Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PtwkSKp8F4Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PtwkSKp8F4Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PtwkSKp8F4Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PtwkSKp8F4Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 10,
+      "resourceId": { "kind": "youtube#video", "videoId": "PtwkSKp8F4Q" }
+    },
+    "contentDetails": {
+      "videoId": "PtwkSKp8F4Q",
+      "videoPublishedAt": "2016-06-04T12:28:22Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "zs0LoXf1AfqLpvc7LbKFILI5H6Y",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 12, Le DOM",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/dom-774\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nEn plus de l'objet window on a aussi acc\u00e8s \u00e0 un objet [document](https://developer.mozilla.org/fr/docs/Web/API/Document) qui permet de r\u00e9cup\u00e9rer des \u00e9l\u00e9ments HTML et de les manipuler.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UBIfdObb9cY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UBIfdObb9cY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UBIfdObb9cY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UBIfdObb9cY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UBIfdObb9cY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 11,
+      "resourceId": { "kind": "youtube#video", "videoId": "UBIfdObb9cY" }
+    },
+    "contentDetails": {
+      "videoId": "UBIfdObb9cY",
+      "videoPublishedAt": "2016-06-05T12:58:19Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "CzaKD9b3NjXsmAv9iB3hKXl6Mms",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2016-05-25T17:13:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 13, Les \u00e9v\u00e8nements",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/events-775\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nJusqu'\u00e0 maintenant nous avons cr\u00e9\u00e9 des scripts qui se d\u00e9roulent d\u00e8s le chargement de la page. La pluspart du temps on attendra un \u00e9v\u00e8nements pour effectuer une action. Par exemple, nous allons d\u00e9clencher une action lors d'un clic sur un \u00e9l\u00e9ment particulier. Pour faire cela on va avoir besoin d'utiliser un \u00e9couteur d'\u00e9v\u00e8nement gr\u00e0ce \u00e0 la m\u00e9thode `addEventListener`. \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KnBEDuzvRCA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KnBEDuzvRCA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KnBEDuzvRCA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KnBEDuzvRCA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KnBEDuzvRCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 12,
+      "resourceId": { "kind": "youtube#video", "videoId": "KnBEDuzvRCA" }
+    },
+    "contentDetails": {
+      "videoId": "KnBEDuzvRCA",
+      "videoPublishedAt": "2016-06-06T12:03:17Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "As2Eidvn5jmzalqL4CgBIDyRjPM",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2016-06-06T12:06:23Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 14, TP : Syst\u00e8me de spoiler",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/spoiler-777\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous avons vu la base je vous propose d'attaquer un exemple concret : la cr\u00e9ation d'un syst\u00e8me de spoiler\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i7kavjcIFSU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i7kavjcIFSU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i7kavjcIFSU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i7kavjcIFSU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i7kavjcIFSU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 13,
+      "resourceId": { "kind": "youtube#video", "videoId": "i7kavjcIFSU" }
+    },
+    "contentDetails": {
+      "videoId": "i7kavjcIFSU",
+      "videoPublishedAt": "2016-06-07T12:03:21Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "x5dyAnA-PT4pAHMxOU1w3-KNKRI",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2016-06-06T12:05:54Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 15, TP : Syst\u00e8me d'onglets",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/tp-tabs-776\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous avons vu la base je vous propose d'attaquer un exemple concret : la cr\u00e9ation d'un syst\u00e8me d'onglets.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wKatvNTAPVA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wKatvNTAPVA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wKatvNTAPVA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wKatvNTAPVA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wKatvNTAPVA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 14,
+      "resourceId": { "kind": "youtube#video", "videoId": "wKatvNTAPVA" }
+    },
+    "contentDetails": {
+      "videoId": "wKatvNTAPVA",
+      "videoPublishedAt": "2016-06-08T12:03:55Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "mt8IBLVOGuzAjqGgHP-lM17ivks",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2016-06-06T12:06:07Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 16, TP : Menu collant",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/menu-collant-108\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous avons vu la base je vous propose d'attaquer un exemple concret : la cr\u00e9ation d'un menu collant\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VU9FcwtRGVg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VU9FcwtRGVg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VU9FcwtRGVg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VU9FcwtRGVg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VU9FcwtRGVg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 15,
+      "resourceId": { "kind": "youtube#video", "videoId": "VU9FcwtRGVg" }
+    },
+    "contentDetails": {
+      "videoId": "VU9FcwtRGVg",
+      "videoPublishedAt": "2016-06-09T12:12:27Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "tp9Bklhi04HZgigvZGzRRf96P84",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy41Mzk2QTAxMTkzNDk4MDhF",
+    "snippet": {
+      "publishedAt": "2017-09-17T19:39:47Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 17, Ajax",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/ajax-780\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce chapitre nous allons voir comment faire de l'Ajax en JavaScript. L'Ajax permet d'appeller une page en JavaScript et de r\u00e9cup\u00e9rer les informations afin d'effectuer un traitement particulier.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G2bx9iBfm2s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G2bx9iBfm2s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G2bx9iBfm2s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G2bx9iBfm2s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G2bx9iBfm2s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 16,
+      "resourceId": { "kind": "youtube#video", "videoId": "G2bx9iBfm2s" }
+    },
+    "contentDetails": {
+      "videoId": "G2bx9iBfm2s",
+      "videoPublishedAt": "2016-06-16T12:07:52Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "US22DSdCu4pOOQAzVo9u7IPfhLE",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5EQUE1NTFDRjcwMDg0NEMz",
+    "snippet": {
+      "publishedAt": "2017-09-17T19:40:11Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 18, Lodash",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/lodash-763\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nJe vous propose aujourd'hui de d\u00e9couvrir une librairie plut\u00f4t sympa : [Lodash](https://lodash.com/). Lodash est une collection de fonctions utilitaires pour le Javascript. Afin de ne pas \"polluer\" l'espace global la librairie cr\u00e9e une variable `_` qui va contenir toutes les m\u00e9thodes propos\u00e9es.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rwhdnRvxkgU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rwhdnRvxkgU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rwhdnRvxkgU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rwhdnRvxkgU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rwhdnRvxkgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 17,
+      "resourceId": { "kind": "youtube#video", "videoId": "rwhdnRvxkgU" }
+    },
+    "contentDetails": {
+      "videoId": "rwhdnRvxkgU",
+      "videoPublishedAt": "2016-05-04T12:22:19Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "q3uRIfo_8LDwxxFCRaqR_m7cvtU",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy41QTY1Q0UxMTVCODczNThE",
+    "snippet": {
+      "publishedAt": "2017-09-17T19:49:36Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 19, D\u00e9couverte de jQuery",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/decouverte-jquery-877\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nSi vous commencez \u00e0 faire des recherches en ligne sur le JavaScript il y a de fortes chance que vous tombiez sur des questions concernant la librairie **jQuery**. Cette librairie est extr\u00e8mement populaire, au point qu'il est difficile de trouver un plugin qui ne l'utilise pas.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pwz7GbBn8vE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pwz7GbBn8vE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pwz7GbBn8vE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pwz7GbBn8vE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pwz7GbBn8vE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 18,
+      "resourceId": { "kind": "youtube#video", "videoId": "pwz7GbBn8vE" }
+    },
+    "contentDetails": {
+      "videoId": "pwz7GbBn8vE",
+      "videoPublishedAt": "2017-03-03T13:43:12Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "aHIk2aEf0TEglcwYOUjKu9o-r8A",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4yMUQyQTQzMjRDNzMyQTMy",
+    "snippet": {
+      "publishedAt": "2018-02-25T17:27:05Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 20, ECMAScript 2015",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/ecmascript-2015-757\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nL'ECMAScript est un standard \u00e9dit\u00e9 par [Ecma International](http://www.ecma-international.org) qui permet de d\u00e9finir le fonctionnement de diff\u00e9rents langages de programmation dont le JavaScript. Une nouvelle version de ce standard a \u00e9t\u00e9 publi\u00e9 en Juin 2015 : **ECMAScript\u00ae 2015**. Cette nouvelle version permet de  combler les lacunes des versions pr\u00e9c\u00e9dentes et propose de nouvelles r\u00e8gles qui devront \u00eatre impl\u00e9ment\u00e9es par les langages de programmations.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5146X8FSBUQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5146X8FSBUQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5146X8FSBUQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5146X8FSBUQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5146X8FSBUQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 19,
+      "resourceId": { "kind": "youtube#video", "videoId": "5146X8FSBUQ" }
+    },
+    "contentDetails": {
+      "videoId": "5146X8FSBUQ",
+      "videoPublishedAt": "2016-04-01T12:11:18Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Jka1Rs2Pm4abJj2nuixnkApP65A",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy45RTgxNDRBMzUwRjQ0MDhC",
+    "snippet": {
+      "publishedAt": "2018-03-07T11:11:37Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 23, Cr\u00e9er un Carousel",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/carrousel-javascript-87\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nJe vous propose aujourd'hui de d\u00e9couvrir comment cr\u00e9er un carrousel en utilisant du JavaScript. On n'utilisera pas ici de librairies particuli\u00e8res mais on \u00e9crira notre code en utilisant la syntaxe ES6 afin de faciliter l'organisation du code (si vous souhaitez supporter des navigateurs qui ne comprennent pas cette syntaxe libre \u00e0 vous d'utiliser un outil pour convertir le code). \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1hHVvuShsGo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1hHVvuShsGo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1hHVvuShsGo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1hHVvuShsGo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1hHVvuShsGo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 20,
+      "resourceId": { "kind": "youtube#video", "videoId": "1hHVvuShsGo" }
+    },
+    "contentDetails": {
+      "videoId": "1hHVvuShsGo",
+      "videoPublishedAt": "2018-03-06T13:00:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "4mIc0Rli9mYeQWor0WNKd4S353s",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5ENDU4Q0M4RDExNzM1Mjcy",
+    "snippet": {
+      "publishedAt": "2018-03-07T11:12:01Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 24, Cr\u00e9er un Carousel, Pagination",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/carrousel-javascript-pagination-989\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons dans ce chapitre rajouter une pagination \u00e0 notre syst\u00e8me de [Carousel](https://www.grafikart.fr/formations/debuter-javascript/carrousel-javascript)\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WXaDeTmZTgk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WXaDeTmZTgk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WXaDeTmZTgk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WXaDeTmZTgk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WXaDeTmZTgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 21,
+      "resourceId": { "kind": "youtube#video", "videoId": "WXaDeTmZTgk" }
+    },
+    "contentDetails": {
+      "videoId": "WXaDeTmZTgk",
+      "videoPublishedAt": "2018-03-07T13:00:04Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "RgtLXikpztGqPv1FzRB285pMLmc",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy4yMDhBMkNBNjRDMjQxQTg1",
+    "snippet": {
+      "publishedAt": "2018-03-07T11:30:12Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 25, Cr\u00e9er un Carousel, D\u00e9filement infini",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/carrousel-javascript-infini-990\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons dans ce chapitre rajouter un syst\u00e8me de d\u00e9filement infini \u00e0 notre syst\u00e8me de [Carousel](https://www.grafikart.fr/formations/debuter-javascript/carrousel-javascript)\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eBiNsThWR70/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eBiNsThWR70/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eBiNsThWR70/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eBiNsThWR70/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eBiNsThWR70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 22,
+      "resourceId": { "kind": "youtube#video", "videoId": "eBiNsThWR70" }
+    },
+    "contentDetails": {
+      "videoId": "eBiNsThWR70",
+      "videoPublishedAt": "2018-03-08T13:00:07Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "FOMABH64o8-ruzTKq1XRZuv8suE",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5GM0Q3M0MzMzY5NTJFNTdE",
+    "snippet": {
+      "publishedAt": "2018-03-08T13:07:44Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 26, Cr\u00e9er un Carousel, Gestion du tactile",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/carrousel-javascript-touch-991\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons dans ce chapitre rajouter la gestion des \u00e9crans tactiles \u00e0 notre syst\u00e8me de [Carousel](https://www.grafikart.fr/formations/debuter-javascript/carrousel-javascript)\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jAYyeRjQJdQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jAYyeRjQJdQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jAYyeRjQJdQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jAYyeRjQJdQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jAYyeRjQJdQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 23,
+      "resourceId": { "kind": "youtube#video", "videoId": "jAYyeRjQJdQ" }
+    },
+    "contentDetails": {
+      "videoId": "jAYyeRjQJdQ",
+      "videoPublishedAt": "2018-03-09T13:00:08Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ox0HPPt_5FBtAU_hV4kEJwcEJzE",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5DNzE1RjZEMUZCMjA0RDBB",
+    "snippet": {
+      "publishedAt": "2019-03-20T21:02:32Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "CSS / JavaScript : Cr\u00e9er une fen\u00eatre modale en 2019",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/modal-javascript-css-72\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce tutoriel vid\u00e9o vous apprendrez \u00e0 cr\u00e9er une fen\u00eatre modale en JavaScript.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EIC1_0Dfa9o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EIC1_0Dfa9o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EIC1_0Dfa9o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EIC1_0Dfa9o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EIC1_0Dfa9o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 24,
+      "resourceId": { "kind": "youtube#video", "videoId": "EIC1_0Dfa9o" }
+    },
+    "contentDetails": {
+      "videoId": "EIC1_0Dfa9o",
+      "videoPublishedAt": "2019-03-22T13:04:06Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Dz-hLWnWNzpI_SsJNsQsZYw7yX0",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy43MTI1NDIwOTMwQjIxMzNG",
+    "snippet": {
+      "publishedAt": "2019-07-04T06:47:57Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Tutoriel JavaScript : Apparition au d\u00e9filement",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/scroll-reveal-1176\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nPour cet exercice je vous propose de d\u00e9couvrir comment cr\u00e9er un effet d'apparition au d\u00e9filement.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2decTjcdDKo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2decTjcdDKo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2decTjcdDKo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2decTjcdDKo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2decTjcdDKo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 25,
+      "resourceId": { "kind": "youtube#video", "videoId": "2decTjcdDKo" }
+    },
+    "contentDetails": {
+      "videoId": "2decTjcdDKo",
+      "videoPublishedAt": "2019-07-10T12:00:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "vjChGR31uSe0E1SmGbLJptdydlw",
+    "id": "UExqd2RNZ3c1VFRMVnpEOUpxX1dCZDFjcnFEd1hSbjRjdy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+    "snippet": {
+      "publishedAt": "2019-08-23T10:20:32Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre le JavaScript : Chapitre 29, ScrollSpy",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/scrollspy-js-page-491\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce tutoriel nous allons voir comment \u00e9couter le scroll d'une page afin d'activer l'\u00e9l\u00e9ment du menu correspondant. C'est une technique indispensable qui est tr\u00e8s utilis\u00e9 sur les sites \"one page\" mais aussi pour cr\u00e9er des sommaires dynamiques. \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Hrhuz8-w2M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Hrhuz8-w2M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Hrhuz8-w2M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3Hrhuz8-w2M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3Hrhuz8-w2M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw",
+      "position": 26,
+      "resourceId": { "kind": "youtube#video", "videoId": "3Hrhuz8-w2M" }
+    },
+    "contentDetails": {
+      "videoId": "3Hrhuz8-w2M",
+      "videoPublishedAt": "2019-08-26T12:00:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  }
+]

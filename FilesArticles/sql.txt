@@ -1,0 +1,67 @@
+<center><h1 style="padding: 10px 0px; color: #13283D;">Cours SQL</h1></center>
+<h2 style="padding: 10px 0px; color: #13283D;">Definition SQL</h2>
+<p>
+    SQL (sigle de Structured Query Language, en français langage de requête structurée) 
+    est un langage informatique normalisé servant à exploiter des bases de données relationnelles. 
+</p>
+<p>
+    La partie langage de manipulation des données de SQL permet de rechercher, 
+    d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
+Outre le langage de manipulation des données, la partie langage de définition des données 
+permet de créer et de modifier l'organisation des données dans la base de données,
+ la partie langage de contrôle de transaction permet de commencer et de terminer des
+  transactions, et la partie langage de contrôle des données permet d'autoriser ou
+   d'interdire l'accès à certaines données à certaines personnes.
+</p>
+
+<h2 style="padding: 10px 0px; color: #13283D;">Manipulation de données</h3>
+<p>
+    Le Langage de manipulation de données LMD, soit Data Manipulation Language, 
+    DML, en anglais, est un sous-ensemble du SQL utilisé pour ajouter, modifier, et supprimer des données :
+INSERT insère des n-uplets (informellement appelés lignes et appelés tuples en anglais) 
+dans une table existante, exemple :<br>
+INSERT INTO a_table (field1, field2, field3)<br>
+    VALUES ('test', 'N', NULL);<br>
+UPDATE Modifie un ensemble de n-uplets existant dans une table, exemple :<br>
+UPDATE a_table
+    SET field1 = 'updated value'<br>
+WHERE field2 = 'N';
+DELETE Supprime un ensemble de n-uplets existant dans une table, exemple :<br>
+DELETE FROM a_table<br>
+    WHERE field2 = 'N';<br>
+MERGE Combine les données de plusieurs tables. C'est la combinaison de INSERT et UPDATE. 
+Il peut être nommé UPSERT, INSERT OR REPLACE INTO, ou encore INSERT ON DUPLICATE KEY UPDATE 
+dans certains moteurs de base de données.<br>
+ MERGE INTO table_name USING table_reference ON (condition)<br>
+   WHEN MATCHED THEN<br>
+   UPDATE SET column1 = value1 [, column2 = value2 ...]<br>
+   WHEN NOT MATCHED THEN<br>
+   INSERT (column1 [, column2 ...]) VALUES (value1 [, value2 ...<br>
+</p>
+<h2 style="padding: 10px 0px; color: #13283D;">NULL et la logique ternaire</h3>
+
+<p>
+Le mot-clef NULL fut introduit dans SQL pour exprimer les informations manquantes dans le modèle relationnel. 
+L'introduction de NULL, avec TRUE et FALSE est le fondement de la logique ternaire. NULL n'a pas de valeur en SQL 
+(et n'est membre d'aucun type de données), c'est un mot-clé réservé, indiquant qu'une information est manquante. 
+Par conséquent, la comparaison avec NULL, même avec NULL lui-même, ne peut ni être VRAI ni être FAUX, 
+elle est obligatoirement inconnue et ne possède aucune valeur booléenne. En effet, NULL ne peut pas être 
+considéré égal à NULL, puisque les deux informations manquantes, que ces deux NULL distincts représentent, 
+peuvent s'avérer différentes. On dit généralement que NULL est un « marqueur ».
+</p>
+<h2 style="padding: 10px 0px; color: #13283D;">Langages apparentés</h3>
+
+<p>
+Créé par extension de SQL, Transact-SQL est un langage de programmation des SGBD SQL Adaptive Server Anywhere (ASA), 
+SQL Adaptive Server Enterprise (ASE), Sybase IQ de Sybase ainsi que SQL Server de Microsoft.<br>
+PL/SQL est un langage de programmation du SGBD Oracle Database de Oracle Corporation.
+ PL/pgSQL est un langage de programmation du SGBD PostgreSQL. Ce sont des langages de programmation 
+ procédurale dans lesquels peuvent être ajoutées des instructions en langage SQL. 
+ Le code source écrit dans ce type de langage est compilé par le SGBD, puis enregistré
+  dans la base de données et exécuté au besoin.<br>
+OQL est un langage similaire à SQL, pour demander des opérations aux bases de données orientées 
+objet et obtenir les résultats sous forme d'objets. Le langage est normalisé par le Object Data
+ Management Group - un consortium d'industriels informatiques qui a cessé toute activité en 2001.<br>
+</p>
+
+

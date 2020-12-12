@@ -1,0 +1,754 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "4zy8k08d-xwzzyedbu_hlHh-UAY",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2016-09-16T16:36:17Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (1/16) : Introduction",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/introduction-1080\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\n\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g7YKecZhFRA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g7YKecZhFRA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g7YKecZhFRA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g7YKecZhFRA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g7YKecZhFRA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 0,
+      "resourceId": { "kind": "youtube#video", "videoId": "g7YKecZhFRA" }
+    },
+    "contentDetails": {
+      "videoId": "g7YKecZhFRA",
+      "videoPublishedAt": "2016-09-19T12:06:03Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "AuXXIiwgxaDsoRYqDtCkxG5S07A",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2016-09-16T19:04:00Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (2/16) : D\u00e9couverte",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/decouverte-809\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce premier chapitre nous allons d\u00e9couvrir le fonctionnement g\u00e9n\u00e9ral de VueJS ainsi que son syst\u00e8me de template. Nous rentrerons plus en profondeur sur les diff\u00e9rents composants dans les chapitres suivants.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XkgiXngcpWk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XkgiXngcpWk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XkgiXngcpWk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XkgiXngcpWk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XkgiXngcpWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 1,
+      "resourceId": { "kind": "youtube#video", "videoId": "XkgiXngcpWk" }
+    },
+    "contentDetails": {
+      "videoId": "XkgiXngcpWk",
+      "videoPublishedAt": "2016-09-19T12:06:07Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "WEqx-so5xPooQMdW6XP8OHgO38g",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2016-09-16T19:04:29Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (3/16) : L'instance",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/instance-810\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant nous allons d\u00e9couvrir l'instance de VueJS plus en profondeur en d\u00e9couvrant son cycle de vie.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/W6iExv_cg2E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/W6iExv_cg2E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/W6iExv_cg2E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/W6iExv_cg2E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/W6iExv_cg2E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 2,
+      "resourceId": { "kind": "youtube#video", "videoId": "W6iExv_cg2E" }
+    },
+    "contentDetails": {
+      "videoId": "W6iExv_cg2E",
+      "videoPublishedAt": "2016-09-20T12:02:07Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "uUTOG66nRBVOvlKQvupnCIcMQpA",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2016-09-16T19:04:29Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (4/16) : Propri\u00e9t\u00e9s combin\u00e9es & Watchers",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/computed-watch-811\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nEn plus des propri\u00e9t\u00e9s d\u00e9finie gr\u00e0ce \u00e0 `data` il est possible de d\u00e9finir des propri\u00e9t\u00e9es `computed` qui sont issues d'une mutation. Ce syst\u00e8me permet de conserver le c\u00f4t\u00e9 r\u00e9actif des propri\u00e9t\u00e9s originales. Nous verrons aussi comment utiliser la propri\u00e9t\u00e9 `watch` qui permet d'\u00e9couter les mutations du state.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aDE-5MkZ-yk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 3,
+      "resourceId": { "kind": "youtube#video", "videoId": "aDE-5MkZ-yk" }
+    },
+    "contentDetails": {
+      "videoId": "aDE-5MkZ-yk",
+      "videoPublishedAt": "2016-09-21T12:04:35Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ZDB_jfdUjE0vIbI4PfJzi9JfLEE",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2016-09-16T19:04:29Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (5/16) : Les Directives",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/directives-812\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes directives permettent de greffer un comportement sp\u00e9cial. Nous en avons d\u00e9j\u00e0 vu certaines dans la premi\u00e8re partie avec par exemple `v-if`, `v-show` ou `v-for`. Il est d'ailleurs possible de cr\u00e9er ses propres directives pour ajouter ses propres comportements.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y8rnYeW7ch8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y8rnYeW7ch8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y8rnYeW7ch8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y8rnYeW7ch8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y8rnYeW7ch8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 4,
+      "resourceId": { "kind": "youtube#video", "videoId": "Y8rnYeW7ch8" }
+    },
+    "contentDetails": {
+      "videoId": "Y8rnYeW7ch8",
+      "videoPublishedAt": "2016-09-22T12:04:39Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "GhLkYtpXNJ9iwKfzobx4-9F47Ug",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2016-09-16T19:04:29Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (6/16) : Les Filtres",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/filters-813\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes filtres peuvent \u00eatre compar\u00e9 aux propri\u00e9t\u00e9es `computed` car ils permettent de modifier \u00e0 la vol\u00e9e une propri\u00e9t\u00e9 du state. Les filtres offrent l'avantage de pouvoir \u00eatre utilis\u00e9s dans plusieurs composants mais peuvent aussi \u00eatre combin\u00e9s.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IZYV2TdHxfw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IZYV2TdHxfw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IZYV2TdHxfw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IZYV2TdHxfw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IZYV2TdHxfw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 5,
+      "resourceId": { "kind": "youtube#video", "videoId": "IZYV2TdHxfw" }
+    },
+    "contentDetails": {
+      "videoId": "IZYV2TdHxfw",
+      "videoPublishedAt": "2016-09-23T11:48:59Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "y9McM8CN9LmraBgUplSI4LXZt2s",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2016-09-16T19:28:10Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (7/16) : Les Composants",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/components-814\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce chapitre nous allons d\u00e9couvrir un aspect important de la structure VueJS : Les composants. Les composants sont des sortes de balises personnalis\u00e9es qui vont \u00eatre responsable d'effectuer une certaines logique. Ce syst\u00e8me de composant vous permet de morceler votre application en petits blocs plus faciles \u00e0 maintenir.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QSZZ5YjxKZs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 6,
+      "resourceId": { "kind": "youtube#video", "videoId": "QSZZ5YjxKZs" }
+    },
+    "contentDetails": {
+      "videoId": "QSZZ5YjxKZs",
+      "videoPublishedAt": "2016-09-24T12:10:35Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xa3r_k2SFugNPTC8YXDIMb7wVhs",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2016-09-16T22:08:50Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (8/16) : Cr\u00e9er un \"Store\"",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/store-815\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLe souci avec le d\u00e9coupage en composant est qu'il est difficile de faire communiquer plusieurs composants ensemble si ils n'ont pas un anc\u00eatre commun proche. La solution pour rem\u00e9dier \u00e0 ce probl\u00e8me est de cr\u00e9er un \"store\". Le principe de ce store est simplement de partager un state commun.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qU1MyblWsMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qU1MyblWsMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qU1MyblWsMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qU1MyblWsMU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qU1MyblWsMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 7,
+      "resourceId": { "kind": "youtube#video", "videoId": "qU1MyblWsMU" }
+    },
+    "contentDetails": {
+      "videoId": "qU1MyblWsMU",
+      "videoPublishedAt": "2016-09-25T11:57:23Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "wUtMBWt0_HVfxZWG7Hh19qlzMUk",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2016-09-17T13:06:12Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (9/16) : Vue-CLI",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/vue-cli-816\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nVueJS offre la possibilit\u00e9 de travailler avec un format de fichier `.vue` pour simplifier l'organisation de notre code. Pour profiter de cette fonctionnalit\u00e9 il faut configurer un outil de build comme [webpack](https://www.grafikart.fr/tutoriels/javascript/webpack-module-bundler-758) ou [browserify](https://www.grafikart.fr/tutoriels/javascript/browserify-549) qui sont malheureusement un peu complexe \u00e0 mettre en place, VueJS a pens\u00e9 \u00e0 tout et dispose d'un invit\u00e9 de commande qui se chargera de configurer le projet \u00e0 votre place : [Vue CLI](https://github.com/vuejs/vue-cli/blob/master/README.md). \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ml-Hf9gLO9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 8,
+      "resourceId": { "kind": "youtube#video", "videoId": "Ml-Hf9gLO9I" }
+    },
+    "contentDetails": {
+      "videoId": "Ml-Hf9gLO9I",
+      "videoPublishedAt": "2016-09-26T11:51:18Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "kLHWRld4a7g2bI6CsxXClrSZ_co",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2016-09-17T13:06:12Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (10/16) : Animations & Transitions",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/transition-817\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nVueJS int\u00e8gre un syst\u00e8me d'animation qui vous permettra de mettre en place des transitions lorsqu'un \u00e9l\u00e9ment est ajout\u00e9 ou supprim\u00e9 du DOM. Ces transitions s'utilisent avec des enfant qui poss\u00e8dent la directive `v-if`, `v-show` ou `v-for`\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eaMzCFZMYhs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 9,
+      "resourceId": { "kind": "youtube#video", "videoId": "eaMzCFZMYhs" }
+    },
+    "contentDetails": {
+      "videoId": "eaMzCFZMYhs",
+      "videoPublishedAt": "2016-09-27T12:02:34Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "iTZtu8T2u3s6fqX2zKacdOmkuC4",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2016-09-19T12:05:27Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (11/16) : TP : TodoList",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/tp-todolist-818\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que l'on a vu les bases de VueJS il est temps de passer \u00e0 la pratique. Et quoi de mieux pour d\u00e9couvrir un framework front-end que de faire une todolist !\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SgtS7jWF2O4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 10,
+      "resourceId": { "kind": "youtube#video", "videoId": "SgtS7jWF2O4" }
+    },
+    "contentDetails": {
+      "videoId": "SgtS7jWF2O4",
+      "videoPublishedAt": "2016-09-28T11:58:57Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "HaohFXBOW_0A5mMOKXeitZHgF3M",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2016-09-24T12:39:15Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (12/16) : TP : Carousel",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/tp-carousel-819\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons continuer notre mise en pratique avec un exemple qui va faire intervenir le syst\u00e8me de transitions : La cr\u00e9ation d'un carousel.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v_4NETxKASo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v_4NETxKASo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v_4NETxKASo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v_4NETxKASo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v_4NETxKASo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 11,
+      "resourceId": { "kind": "youtube#video", "videoId": "v_4NETxKASo" }
+    },
+    "contentDetails": {
+      "videoId": "v_4NETxKASo",
+      "videoPublishedAt": "2016-09-29T12:01:34Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "W36KYwIWWk7ttHJsWnOV8Hu68Nw",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC5EQUE1NTFDRjcwMDg0NEMz",
+    "snippet": {
+      "publishedAt": "2016-09-26T21:29:18Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (13/16) : TP : Lightbox",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/tp-lightbox-820\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nPour finir cette partie travaux pratiques nous allons utiliser un exemple qui sort du cadre classique : la cr\u00e9ation d'une Lightbox. La principalement probl\u00e9matique que l'on va rencontr\u00e9 est la communication entre les liens clicable et la lightbox. Pour arriver \u00e0 solutionner ce probl\u00e8me nous allons utiliser les \u00e9l\u00e9ments suivant : \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J2E1-04NEAM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J2E1-04NEAM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J2E1-04NEAM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J2E1-04NEAM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J2E1-04NEAM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 12,
+      "resourceId": { "kind": "youtube#video", "videoId": "J2E1-04NEAM" }
+    },
+    "contentDetails": {
+      "videoId": "J2E1-04NEAM",
+      "videoPublishedAt": "2016-09-30T12:03:45Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "DSlvgbEfuOVo5DfqHNGweRPJpp0",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC41Mzk2QTAxMTkzNDk4MDhF",
+    "snippet": {
+      "publishedAt": "2016-09-26T21:29:18Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (14/16) : Vue Resource",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/vue-resource-821\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nVueResource est une librairie qui va permettre de communiquer simplement avec un serveur et plus particuli\u00e8re avec une API REST.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qmsOjL4uJQ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qmsOjL4uJQ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qmsOjL4uJQ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qmsOjL4uJQ8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qmsOjL4uJQ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 13,
+      "resourceId": { "kind": "youtube#video", "videoId": "qmsOjL4uJQ8" }
+    },
+    "contentDetails": {
+      "videoId": "qmsOjL4uJQ8",
+      "videoPublishedAt": "2016-10-01T12:08:33Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ZLWx8i2pDBhbq_e1RjOXLx08iPI",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2016-09-26T21:29:18Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (15/16) : Vue Router",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/vue-router-822\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nComme son nom l'indique VueRouter permet de mettre en place un syst\u00e8me de navigation bas\u00e9 sur les URLs.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PCsDcWlWeEY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PCsDcWlWeEY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PCsDcWlWeEY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PCsDcWlWeEY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PCsDcWlWeEY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 14,
+      "resourceId": { "kind": "youtube#video", "videoId": "PCsDcWlWeEY" }
+    },
+    "contentDetails": {
+      "videoId": "PCsDcWlWeEY",
+      "videoPublishedAt": "2016-10-02T12:00:26Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "HWOP92Tm6xii8fzfn90GFBBg9MY",
+    "id": "UExqd2RNZ3c1VFRMVy1tQXRsUjQ2VmFqcktzNGRlcDN5MC45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2016-09-26T21:29:18Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "VueJS 2 (16/16) : VueX",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/vuex-823\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\n[VueX](https://github.com/vuejs/vuex) est une librairie qui permet de g\u00e9rer un syst\u00e8me centralis\u00e9 de `state` pour vos composants  inspir\u00e9 par la logique [Flux](https://facebook.github.io/flux/).\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OjM7hzcdBrs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OjM7hzcdBrs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OjM7hzcdBrs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OjM7hzcdBrs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OjM7hzcdBrs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0",
+      "position": 15,
+      "resourceId": { "kind": "youtube#video", "videoId": "OjM7hzcdBrs" }
+    },
+    "contentDetails": {
+      "videoId": "OjM7hzcdBrs",
+      "videoPublishedAt": "2016-10-03T12:00:35Z"
+    },
+    "status": { "privacyStatus": "public" }
+  }
+]

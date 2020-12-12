@@ -1,0 +1,13 @@
+L'origine de PHP remonte à 1995 quand Rasmus Lerdorf a créé PHP/FI, une librairie de scripts Perl utilisés pour la publication de son CV sur son site personnel.
+ Au fur et à mesure des évolutions, la librairie a été portée en C et agrémentée de nouvelles fonctionnalités pour créer des pages dynamiques simples pour le web
+ et accéder à quelques sources de données. PHP/FI signifie Personal Home Page/Forms Interpreter. PHP/FI 2.0 sort en 1997, toujours développé par une seule personne.
+ C'est le succès : 50000 sites (1% des noms de domaines) disent l'utiliser ou le supporter. Les contributeurs affluent. PHP 3.0 sort en juin 1998, c'est la première 
+version développée conjointement par Rasmus Lerdorf, Andi Gutmans et Zeev Suraski et entièrement réécrite (les versions précédentes étaient trop lentes pour une 
+application commerciale). Outre les performances, PHP 3 est modulaire et extensible, permettant de lui greffer des API supplémentaires, ce qui n'a pas manqué avec
+ le support de nombreuses bases de données, de formats et de protocoles, une syntaxe plus cohérente et un support basique de l'objet. Il a été installé sur 10% du 
+parc mondial des serveurs web avec des dizaines de milliers de développeurs et des centaines de milliers de sites. Le moteur de PHP 4 a été repensé afin d'en 
+améliorer les performances pour des applications complexes et d'augmenter encore la modularité. Un nouveau moteur a vu le jour, appelé Zend Engine (contraction
+ de Zeev et Andi). PHP 4 sort officiellement en mai 2000 et apporte des performances accrues, le supports de plusieurs serveurs web, les sessions, une sécurité 
+accrue. C'est actuellement la dernière version stable (nous ne comptons pas les 4.1, 4.2 et 4.3). Et PHP 5 ? Actuellement en version beta, un cycle qui peut durer
+ plusieurs mois, le but de PHP 5 est une amélioration des performances du moteur Zend (Zend Engine 2), un modèle objet étendu et très proche du C++, une 
+compatibilité accrue avec de nouveaux standards et les anciens (RPC, XML, .NET, ...)

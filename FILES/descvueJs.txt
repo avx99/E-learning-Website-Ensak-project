@@ -1,0 +1,10 @@
+Vue.js (aussi appelé plus simplement Vue), est un framework JavaScript open-source utilisé pour construire des interfaces utilisateur et des applications 
+web monopages. Vue a été créé par Evan You et est maintenu par lui et le reste des membres actifs de l'équipe principale travaillant sur le projet et son
+écosystème.
+La bibliothèque est notamment utilisée par Adobe, Alibaba et GitLab4.
+Vue présente une architecture progressivement adoptable qui se concentre sur le rendu déclaratif et la composition des composants. Les fonctionnalités avancées 
+requises pour les applications complexes telles que le routage, la gestion d'état 
+et les outils de construction sont offertes par le biais de bibliothèques et de paquets officiellement maintenus5, Nuxt.js étant l'une des solutions 
+les plus populaires.
+Vue permet d'étendre le HTML avec des attributs HTML appelés directives6. Les directives offrent des fonctionnalités aux applications HTML, et sont soit 
+intégrées soit définies par l'utilisateur.

@@ -1,0 +1,45 @@
+<center><h1 style="padding: 10px 0px; color: #13283D;">Cours Git</h1></center>
+<h3 style="padding: 10px 0px; color: #13283D;">Introduction</h3>
+<p>
+Si vous avez déjà travaillé sur un projet informatique, que ce soit un petit projet personnel ou un plus gros projet professionnel, vous avez certainement déjà rencontré un de ces problèmes :
+« Qui a modifié le fichier X, il marchait bien avant et maintenant il provoque des bugs ! » ;<br>
+« Robert, tu peux m’aider en travaillant sur le fichier X pendant que je travaille sur le fichier Y ?
+ Attention à ne pas toucher au fichier Y car si on travaille dessus en même temps 
+ je risque d’écraser tes modifications ! » ;<br>
+
+« Qui a ajouté cette ligne de code dans ce fichier ? Elle ne sert à rien ! » ;<br>
+
+« À quoi servent ces nouveaux fichiers et qui les a ajoutés au code du projet ? » ;<br>
+
+« Quelles modifications avions-nous faites pour résoudre le bug de la page qui se ferme toute seule ? »<br>
+</p>
+
+<p>
+Si ces problèmes-là vous parlent, vous auriez dû utiliser un logiciel de gestion de versions. 
+Ce type de logiciel est devenu indispensable lorsqu’on travaille à plusieurs sur un même projet 
+et donc sur le même code source. Même si vous travaillez seuls, vous aurez intérêt à commencer 
+à en utiliser un rapidement car il vous offrira de nombreux avantages, comme la conservation 
+d’un historique de chaque modification des fichiers par exemple.
+Il existe de nombreux logiciels de gestion de versions, comme SVN (Subversion), 
+Mercurial et Git. Dans ce tutoriel, je vous présenterai Git (prononcez « guite ») 
+qui est un des plus puissants logiciels de ce genre. Nous l’utilisons notamment pour 
+gérer le code source d'OpenClassrooms !
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Qu'est-ce qu’un logiciel de gestion de versions ?</h3>
+<p>
+Les logiciels de gestion de versions sont utilisés principalement par les développeurs ; 
+ce sont donc bel et bien des outils pour geeks. En effet, ils sont quasi exclusivement
+utilisés pour gérer des codes sources, car ils sont capables de suivre l’évolution d’un 
+fichier texte ligne de code par ligne de code. 
+Ces logiciels sont fortement conseillés pour gérer un projet informatique.
+</p>
+
+<p>
+Un projet informatique correspond aux étapes de création d’un programme, d’un site web ou de tout 
+autre outil informatique. Que vous travailliez seuls sur le développement de ce projet ou à plusieurs, 
+vous avez un objectif (par exemple, « créer un site web »)
+ et vous allez devoir écrire du code source pour parvenir à cet objectif. On dit que vous travaillez sur un projet.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Consulter les supports videos</h3>
