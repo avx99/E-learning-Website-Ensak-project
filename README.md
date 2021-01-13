@@ -33,20 +33,20 @@ Le choix du sujet exact :
 Comme vous savez à nos jours les méthodes et les pédagogies de l’apprentissage
 changent complètement, les gens commencent à apprendre à distance à cause de
 beaucoup des raisons, parmi lesquelles :
-• Le gagne du temps.
-• La disponibilité des cours à chaque moment.
-• La gratuité des cours.
-• La possibilité d’accrocher un emploi en ligne(Freelance).
+## Le gagne du temps.
+## La disponibilité des cours à chaque moment.
+## La gratuité des cours.
+v La possibilité d’accrocher un emploi en ligne(Freelance).
 Pour cela on a décidé de créer un site web dynamique d’apprentissage informatique en
 ligne.
 Cette page web va contenir des tutoriaux de programmation, Data science, AI... en format
 vidéo ou document (Word, PDF, article..).
 Notre site web va garantir les taches et les options suivantes :
-• Une inscription obligatoire pour avoir l’accès à notre site.
-• Une liaison avec une base de donnes (MySQL) pour stocker les donnes des
+## Une inscription obligatoire pour avoir l’accès à notre site.
+## Une liaison avec une base de donnes (MySQL) pour stocker les donnes des
 utilisateurs (nom, prénom, image,…).
-• Possibilité de contacter nous par email.
-• Possibilité de mettre une connexion entre les utilisateurs de la plateforme par un :
+## Possibilité de contacter nous par email.
+## Possibilité de mettre une connexion entre les utilisateurs de la plateforme par un :
  1 – Forum : Dans lequel les utilisateurs peuvent échanger ses idées.
 2 – Chat : Par lequel chaque utilisateur peut contacter un autre utilisateur en mode
 prive.
