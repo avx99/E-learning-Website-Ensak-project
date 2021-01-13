@@ -1,7 +1,7 @@
 # E-learning-Website-Ensak-project
 site d'apprentissage en ligne
   
-#Introduction
+# Introduction
 L’Internet a révolutionné le monde des ordinateurs et des communications comme rien
 d’autre auparavant. En effet, elle est à la fois une capacité de diffusion dans le monde
 entier, un mécanisme de distribution de l'information et un moyen de collaboration et
@@ -26,7 +26,7 @@ discuter, d’échanger à propos de la formation et de progresser ensemble. L�
 donc de donner des outils pour lier les gens les uns aux autres afin qu’ils se parlent et
 s’auto-forment.
 4
-Sujet :
+# Sujet :
 Le choix du sujet exact :
 Comme vous savez à nos jours les méthodes et les pédagogies de l’apprentissage
 changent complètement, les gens commencent à apprendre à distance à cause de
