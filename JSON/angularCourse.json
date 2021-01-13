@@ -1,0 +1,479 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "OeFAlYt9MfQrsY89-Fpw8IJWhpM",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2014-03-05T13:09:20Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Formation AngularJS : Introduction",
+      "description": "Abonnez-vous \u00e0 Grafikart: http://bit.ly/19nGK3G\nAngularJS est un framework javascript qui permet de cr\u00e9er des application web dynamiques. Ce type d'applications (souvent appell\u00e9es SPA pour Single Page Application) sont de plus en plus pr\u00e9sentes avec des p\u00e9riph\u00e9riques connect\u00e9s de plus en plus vari\u00e9s.  \n\nMalheureusement, cr\u00e9er une application tenant sur une seule page n'est pas chose simple. En effet, cela requiert l'utilisation de beaucoup de javascript et il est tr\u00e8s difficile de bien s'organiser et d'obtenir une application maintenable et modulable. Et c'est ici qu'AngularJS intervient.\n\nRetrouvez un concentr\u00e9 du web autour du monde du d\u00e9veloppement web et du graphisme...\nFormez-vous et am\u00e9liorez vos comp\u00e9tences \u00e0 travers pr\u00e8s de 161 heures de formation vid\u00e9o...\n\nSuivez Grafikart sur:\nFacebook: https://www.facebook.com/pages/Grafikart/483920250642\nTwitter: https://twitter.com/grafikart_fr\nPlus de tutoriels : http://www.grafikart.fr",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aBE0St5yI7U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aBE0St5yI7U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aBE0St5yI7U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aBE0St5yI7U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 0,
+      "resourceId": { "kind": "youtube#video", "videoId": "aBE0St5yI7U" }
+    },
+    "contentDetails": {
+      "videoId": "aBE0St5yI7U",
+      "videoPublishedAt": "2014-03-04T13:00:01Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "UTkTU6n_nwRA2y5IGeO7gc_onqY",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2014-03-05T13:09:20Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (1/10) : Les Directives",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/directives-483\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce chapitre nous verrons une partie essentiel d'AngularJS : **Les Directives**. \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fOuKMuaGJ54/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fOuKMuaGJ54/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fOuKMuaGJ54/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fOuKMuaGJ54/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 1,
+      "resourceId": { "kind": "youtube#video", "videoId": "fOuKMuaGJ54" }
+    },
+    "contentDetails": {
+      "videoId": "fOuKMuaGJ54",
+      "videoPublishedAt": "2014-03-04T13:05:01Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "qvKqqVFfkAcLr9Is8Kh4yx9fzxk",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2014-03-05T13:09:20Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (2/10) : Les Controllers et le Scope",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/controller-scope-484\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce chapitre nous allons voir 2 notions importantes : les **Controllers** et le **Scope**.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uJkuw0baJlw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uJkuw0baJlw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uJkuw0baJlw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uJkuw0baJlw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 2,
+      "resourceId": { "kind": "youtube#video", "videoId": "uJkuw0baJlw" }
+    },
+    "contentDetails": {
+      "videoId": "uJkuw0baJlw",
+      "videoPublishedAt": "2014-03-05T11:29:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Y6AUWhmUnM2N7vmaB4b9isbmW1I",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2014-03-05T13:09:20Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (3/10) : Les Modules",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/module-485\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes modules permettent d'organiser le code de son application et aussi de le rendre r\u00e9utilisable.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dM166xJUZ6Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dM166xJUZ6Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dM166xJUZ6Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dM166xJUZ6Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 3,
+      "resourceId": { "kind": "youtube#video", "videoId": "dM166xJUZ6Y" }
+    },
+    "contentDetails": {
+      "videoId": "dM166xJUZ6Y",
+      "videoPublishedAt": "2014-03-06T09:00:01Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "nq3gT7qqQ-KDla_pf0pYRyKsJ-0",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2014-03-05T13:09:20Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (4/10) : Les Routes",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/routes-486\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nJusqu'\u00e0 maintenant nous avons cr\u00e9er une page avec quelques fonctions dynamique. Mais dans le cadre d'une v\u00e9ritable application il est int\u00e9ressant d'avoir des URLs sp\u00e9cifique pour chaque \u00e9tape. \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kFl1wrSZ4sQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kFl1wrSZ4sQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kFl1wrSZ4sQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kFl1wrSZ4sQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 4,
+      "resourceId": { "kind": "youtube#video", "videoId": "kFl1wrSZ4sQ" }
+    },
+    "contentDetails": {
+      "videoId": "kFl1wrSZ4sQ",
+      "videoPublishedAt": "2014-03-07T09:00:01Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "WmmndgzCB1Wvx4pjRp0CrxmGGjU",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2014-06-25T15:14:23Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (5/10) : Les Services",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/services-487\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes services agissent comme la couche \"Model\", ils permettent de fournir une interface pour r\u00e9cup\u00e9rer et stocker des donn\u00e9es provenant de diff\u00e9rentes sources.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FRaVbFHRc7w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FRaVbFHRc7w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FRaVbFHRc7w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FRaVbFHRc7w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 5,
+      "resourceId": { "kind": "youtube#video", "videoId": "FRaVbFHRc7w" }
+    },
+    "contentDetails": {
+      "videoId": "FRaVbFHRc7w",
+      "videoPublishedAt": "2014-03-10T10:33:03Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "MQqYO4iAEhoZiphz9XA-Nrx2EpM",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2014-06-25T15:14:35Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (6/10) : Les Promesses",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/promesses-488\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons maintenant finir ce chapitre sur les bases d'AngularJS en peaufinant notre exemple en utilisant des donn\u00e9es distantes avec $http et nous verrons comment utiliser les promesses.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kMFnhKru2o0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kMFnhKru2o0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kMFnhKru2o0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kMFnhKru2o0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 6,
+      "resourceId": { "kind": "youtube#video", "videoId": "kMFnhKru2o0" }
+    },
+    "contentDetails": {
+      "videoId": "kMFnhKru2o0",
+      "videoPublishedAt": "2014-03-11T16:55:18Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "DIn_7ag92wRT9GDWAMUJOSbJTZk",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2016-03-15T00:01:16Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (7/10) : Les Filtres",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/filtres-751\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes filtres sur angularjs permettent de manipuler les donn\u00e9es avant de les formater ou de les filtrer. AngularJS dispose de [9 filtres](https://docs.angularjs.org/api/ng/filter) fournit par d\u00e9faut.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-1lLCIGTfJc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-1lLCIGTfJc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-1lLCIGTfJc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-1lLCIGTfJc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-1lLCIGTfJc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 7,
+      "resourceId": { "kind": "youtube#video", "videoId": "-1lLCIGTfJc" }
+    },
+    "contentDetails": {
+      "videoId": "-1lLCIGTfJc",
+      "videoPublishedAt": "2016-03-15T10:34:59Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "C9AXax5t53RGHdlYRRJMqayllkE",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2014-06-25T15:14:45Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (8/10) : Cr\u00e9er ses directives",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/creer-directive-489\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans cette nouvelle partie nous allons d\u00e9tailler plus en profondeur certains \u00e9l\u00e9ments du Framework et nous allons commencer par les directives.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cEJ7NVXCYsU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cEJ7NVXCYsU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cEJ7NVXCYsU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cEJ7NVXCYsU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 8,
+      "resourceId": { "kind": "youtube#video", "videoId": "cEJ7NVXCYsU" }
+    },
+    "contentDetails": {
+      "videoId": "cEJ7NVXCYsU",
+      "videoPublishedAt": "2014-03-17T13:00:02Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "FtnDjLZfZSjoovSSxGiqse6yTX8",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2014-06-25T15:14:55Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (9/10) : Les Resources",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/resources-495\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nL'object $http permet de faire des requ\u00eates Ajax tr\u00e8s simplement mais il s'av\u00e8re relativement p\u00e9nible \u00e0 utiliser pour des applications complexes.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G_lcwCu_9IE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G_lcwCu_9IE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G_lcwCu_9IE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G_lcwCu_9IE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G_lcwCu_9IE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 9,
+      "resourceId": { "kind": "youtube#video", "videoId": "G_lcwCu_9IE" }
+    },
+    "contentDetails": {
+      "videoId": "G_lcwCu_9IE",
+      "videoPublishedAt": "2014-04-22T14:09:23Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ENPqbHBxakuQwCLx91g0-cQmW5g",
+    "id": "UExqd2RNZ3c1VFRMVURsSnl4NHlJUFFqb0ktdy03WnMxci40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2016-03-15T00:01:23Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "AngularJS 1 (10/10) : $apply, $watch et $digest",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/apply-watch-digest-752\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nNous allons maintenant faire le point sur le fonctionnement interne d'AngularJS. M\u00eame si tout semble \"magique\" dans un premier temps, cette magie peut rapidement se retourner contre nous lors de cas particulier et on finit souvent par r\u00e9soudre nos probl\u00e8mes en appliquant de $scope.$apply() un peu partout dans notre code sans r\u00e9ellement comprendre pourquoi.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WrqOB0r2svY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WrqOB0r2svY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WrqOB0r2svY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WrqOB0r2svY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WrqOB0r2svY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUDlJyx4yIPQjoI-w-7Zs1r",
+      "position": 10,
+      "resourceId": { "kind": "youtube#video", "videoId": "WrqOB0r2svY" }
+    },
+    "contentDetails": {
+      "videoId": "WrqOB0r2svY",
+      "videoPublishedAt": "2016-03-15T13:23:43Z"
+    },
+    "status": { "privacyStatus": "public" }
+  }
+]

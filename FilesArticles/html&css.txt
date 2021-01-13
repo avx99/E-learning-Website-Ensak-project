@@ -1,0 +1,69 @@
+<center><h1 style="padding: 10px 0px; color: #13283D;">Cours HTML & CSS</h1></center>
+<h2 style="padding: 10px 0px; color: #13283D;">HTML</h2>
+<p>
+    L'HTML est un langage informatique utilisé sur l'internet. Ce langage est utilisé pour 
+    créer des pages web. L'acronyme signifie HyperText Markup Language, ce qui signifie en français 
+    "langage de balisage d'hypertexte". Cette signification porte bien son nom puisqu'effectivement 
+    ce langage permet de réaliser de l'hypertexte à base d'une structure de balisage.
+    Ce n'est pas à proprement parlé un langage de programmation, mais plutôt un langage qui permet 
+    de mettre en forme du contenu. Les balises permettent de mettre en forme le texte et de placer 
+    des éléments interactif, tel des liens, des images ou bien encore des animations. 
+    Ces éléments ne sont pas dans le code source d'une page codé en HTML mais "à coté" et la page en HTML 
+    ne fait que reprendre ces éléments.
+    Pour visualiser une page en HTML il est nécessaire d'utiliser un navigateur web.
+    La plupart du temps d'autres langages informatique sont associé à une page codé en HTML. 
+    Par exemple le CSS, qui permet de mettre en forme le contenu d'une page codé en HTML. 
+    Il y a également des langage informatique qui dépendent entièrement du HTML, tel le Javascript.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Créez votre première page web en HTML</h3>
+
+<p>
+    Ça y est, vous avez installé tous les logiciels ? Vous devriez maintenant avoir un éditeur 
+    de texte pour créer votre site (comme Sublime Text) et plusieurs navigateurs pour le tester 
+    (Mozilla Firefox, Google Chrome…).
+    Dans ce chapitre, nous allons commencer à pratiquer ! Nous allons découvrir les bases du langage HTML 
+    et enregistrer notre toute première page web !
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les balises et leurs attributs</h3>
+
+<p>
+    Bon, tout cela était trop facile. Évidemment, il a fallu que ces satanés informaticiens s'en mêlent et compliquent les choses. Il ne suffit pas d'écrire « simplement » du texte dans l'éditeur, il faut aussi donner des instructions à l'ordinateur. En HTML, on utilise pour cela des balises.
+
+Les balises
+Les pages HTML sont remplies de ce qu'on appelle des balises. Celles-ci sont invisibles à l'écran 
+pour vos visiteurs, mais elles permettent à l'ordinateur de comprendre ce qu'il doit afficher.
+Les balises se repèrent facilement. Elles sont entourées de « chevrons », c'est-à-dire 
+des symboles <>,
+À quoi est-ce qu'elles servent ? Elles indiquent la nature du texte qu'elles encadrent. 
+Elles veulent dire par exemple : « Ceci est le titre de la page », « Ceci est une image », 
+« Ceci est un paragraphe de texte », etc.
+</p>
+
+<h2 style="padding: 10px 0px; color: #13283D;">CSS</h2>
+
+<p>
+    Les CSS (Cascading Style Sheets en anglais, ou « feuilles de style en cascade ») sont le code utilisé pour 
+    mettre en forme une page web. Les bases des CSS présentent ce qu'il faut savoir pour commencer. Nous répondrons à 
+    des questions comme : Comment rendre mon texte rouge ou noir ? Comment faire apparaître mon contenu à 
+    tel endroit de l'écran ? Comment décorer ma page web avec une image ou une couleur d'arrière-plan ?
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Donc, que sont les CSS, réellement ?</h3>
+<p>
+De la même façon que HTML, CSS n'est pas vraiment un langage de programmation. C'est un langage de feuille de style, 
+c'est-à-dire qu'il permet d'appliquer des styles sur différents éléments sélectionnés dans un document HTML.
+Par exemple, on peut sélectionner tous les éléments d'une page HTML qui sont paragraphes et afficher leurs 
+textes en rouge avec ce code CSS :<br>
+p {<br>
+    color: red;<br>
+}<br>
+
+    Faisons un essai : copiez ces trois lignes de code CSS dans un nouveau fichier dans votre éditeur de texte, puis sauvegardez le fichier sous le nom style.css dans votre répertoire styles.
+
+Pour que cela fonctionne, il faut appliquer le CSS au document HTML, sinon la mise en forme décrite dans le fichier CSS n'affectera pas l'affichage de la page HTML dans la navigateur (si vous n'avez pas suivi toutes les étapes pour arriver ici, vous pouvez lire l'article Gérer les fichiers et Les bases du HTML pour savoir par où commencer).
+
+Ouvrez votre fichier index.html et copiez la ligne suivante quelque part au sein de l'élément head (c'est-à-dire entre les balises head) : <br>
+ href="styles/style.css" rel="stylesheet" type="text/css"
+</p>

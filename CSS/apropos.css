@@ -1,0 +1,135 @@
+* {
+  padding: 0%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #e8f1f8;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+}
+
+
+ul{
+  list-style : none;
+}
+
+.logo {
+  font-size: 33px;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+}
+
+.headerr {
+  background-color: #13293d;
+  padding: 5px;
+  height: 65px;
+  /* width: 100%; */
+  margin: 0;
+}
+
+.ull {
+  padding-top: 0.5rem;
+  padding-left: 10px;
+}
+
+.lii {
+  padding-right: 1.7rem;
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.inscription {
+  color: rgb(84, 112, 133);
+  background-color: #13293d;
+  width: 80px;
+  height: 40px;
+  border-radius: 2px;
+  border: solid 2px rgb(84, 112, 133);
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  float: left;
+  margin-left: 10px;
+  margin-left: 10px;
+  transition: 0.6s;
+}
+
+.inscription:hover {
+  border-color: #e8f1f8;
+  color: #e8f1f8;
+}
+
+.connection {
+  color: #e8f1f8;
+  background-color: #1b98e0;
+  width: 100px;
+  height: 40px;
+  border-radius: 2px;
+  border: solid 2px #1b98e0;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  float: right;
+  margin-left: 15px;
+  margin-left: 15px;
+  transition: 0.6s;
+}
+.connection:hover {
+  border-color: #1b98e0;
+  color: #1b98e0;
+  background-color: #13293d;
+}
+
+.center {
+  height: 100%;
+}
+
+header {
+  background-color: #13283d;
+  height: 80px;
+}
+
+.container{
+    margin-bottom: 80px;
+}
+
+header nav img {
+  height: 50px;
+  width: 70px;
+  margin: 10px 0px;
+  margin-left: 20px;
+}
+
+main .container {
+  width: 700px;
+  background-color: #e8f1f8;
+  position: absolute;
+  left: 25%;
+  margin: 20px 0;
+  padding: 50px;
+}
+
+main .container h1 {
+  text-align: center;
+}
+
+main .container p {
+  line-height: 40px;
+  padding: 0 10px;
+  font-size: 17px;
+}
+
+main .container div{
+  border: 2pc solid #13283d;
+  border-radius: 5px;
+  background-color: #1b98e0;
+}

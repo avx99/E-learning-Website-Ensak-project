@@ -1,0 +1,149 @@
+<center><h1 style="padding: 10px 0px; color: #13283D;">Cours Javascript</h1></center>
+<h3 style="padding: 10px 0px; color: #13283D;">Présentation de JavaScript</h3>
+<p>
+JavaScript est avant tout le langage de programmation du Web.
+Il a été inventé en 1995 par Brendan Eich,qui travaillait à l'époque pour 
+la société Netscape, créatrice du premier navigateur Web populaire 
+(l'ancêtre de Firefox). JavaScript ne doit pas être confondu avec le langage 
+Java inventé à la même époque. Leurs syntaxessont proches, mais leurs usages
+et leurs "philosophies" sont très éloignés. L'idée de départ était de créer 
+un langage simple pour rendre dynamiques et interactives les pages Web, 
+qui étaient très simplistes à l'époque.
+</p>
+<p>
+Petit à petit, les créateurs de sites Web ont enrichi leurs pages en y ajoutant du code écrit
+en JavaScript. Pour que le résultat fonctionne, il fallait que le navigateur Web
+(le logiciel qui sert à surfer sur la Toile en affichant les pages Web) comprenne le JavaScript.
+Ce langage a donc été progressivement intégré à l'ensemble des navigateurs. N'importe quel navigateur 
+Web est aujourd'hui capable d'exécuter du code écrit en JavaScript.
+</p>
+<p>
+L'explosion du Web puis l'avènement du Web 2.0, basés sur des pages riches et interactives,
+ont rendu JavaScript de plus en plus populaire. Les concepteurs de navigateurs Web ont optimisé
+la rapidité d'exécution du code JavaScript, jusqu'à en faire un langage très performant. 
+Cela a conduit à l'apparition en 2009 de la plate-forme Node.js, qui permet d'écrire en JavaScript des
+applications Web très rapides (plus de détails ici). Par l'intermédiaire de MongoDB, JavaScript a même
+pénétré le monde des bases de données (les logiciels qui ont pour rôle de stocker des informations de
+manière fiable et durable).
+</p>
+<p>
+Enfin, l'arrivée des smartphones et autres tablettes dotés de systèmes différents et incompatibles
+(iOS, Android ou Windows Phone) a conduit à l'apparition d'outils de développement dits multi-plateformes. 
+Ils permettent d'écrire en une seule fois des applications mobiles compatibles avec l'ensemble
+des terminaux du marché. Ces outils sont presque toujours basés sur... JavaScript !
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;">JavaScript : un langage essentiel</h3>
+<p>
+Ce petit résumé de l'histoire de JavaScript montre à quel point ce langage est maintenant présent partout.
+Il dispose d’un foisonnant écosystème de composants (des "briques de base" qu'on peut intégrer pour 
+construire un logiciel) et d’une immense communauté de développeurs.
+Sa connaissance vous ouvrira les portes de la programmation côté navigateur Web 
+(on parle de développement front-end), côté serveur (back-end) ou côté mobile. A l'heure actuelle,
+ beaucoup considèrent JavaScript comme la technologie la plus importante dans le monde du développement logiciel.
+Sa dimension universelle conjuguée à sa facilité d'accès font de JavaScript un excellent choix 
+comme premier langage pour débuter la programmation.
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;">Résumons</h3>
+<p>
+Historiquement créé pour animer les pages web, le langage JavaScript peut maintenant être utilisé
+pour programmer dans de très nombreux environnements : serveurs, applications mobiles, objets connectés...
+JavaScript est devenu essentiel pour de très nombreux développeurs. Il s'agit d'un excellent choix 
+comme premier langage de programmation.
+Il a été standardisé sous le nom d'ECMAScript et subit des améliorations régulières.
+La version de JavaScript utilisée dans ce cours est ES2015, parfois appelée ES6. Bien 
+que récente, elle est maintenant bien supportée.
+Pour suivre ce cours, vous devez disposer d'un navigateur web moderne comme Firefox, Chrome
+ ou Microsoft Edge, mais PAS Internet Explorer.
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;">La notion de variable</h3>
+<p>   
+Rôle des variables
+Un programme informatique mémorise des données en utilisant des variables. Une variable est une 
+zone de stockage d'information. On peut l'imaginer comme une boîte dans laquelle on range des choses. 
+Propriétés d'une variable
+Une variable possède trois grandes propriétés :
+Son nom, qui permet de l'identifier. Un nom de variable peut contenir des lettres majuscules ou minuscules,
+des chiffres (sauf en première position) et certains caractères comme le dollar ($)  ou le tiret bas,
+appelé underscore (_).
+Sa valeur, qui est la donnée actuellement mémorisée dans cette variable.
+Son type, qui détermine le rôle et les opérations applicables à cette variable.
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;">Déclarer une variable</h3>
+<p>
+Avant de pouvoir stocker des informations dans une variable, il faut la créer. 
+Cette opération s'appelle la déclaration de la variable. 
+Au niveau de l'ordinateur, déclarer une variable déclenche la réservation 
+d'une zone de la mémoire attribuée à cette variable. Le programme peut ensuite
+lire ou écrire des données dans cette zone mémoire en manipulant la variable.
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;>Résumons !</h3>
+<p>
+Une variable est une zone de stockage d'information. Chaque variable possède un nom, 
+une valeur et un type.En JavaScript, le type d'une variable est déduit implicitement de sa valeur,
+et non pas défini explicitement.Il s'agit d'un langage à typage dynamique.
+On déclare une variable JavaScript avec le mot-clé  let  suivi du nom de la variable. Si la valeur 
+initiale d'une variable n'est pas destinée à changer, on utilise de préférence le mot-clé  const 
+pour déclarer une variable constante.
+L'opérateur d'affectation  =  permet de donner une valeur à une variable.
+ Dans le cas d'une variable de type nombre, on peut utiliser l'opérateur  
+ +=  pour augmenter et l'opérateur  ++  pour incrémenter (augmenter de 1) sa valeur.
+</p>
+<p>
+La portée (scope) d'une variable représente la portion du code source dans laquelle cette 
+variable est utilisable. Les variables définies avec  let  et  const  ont une portée de type bloc :
+elles ne sont utilisables qu'à l'intérieur du bloc de code dans lequel elles sont définies.
+Un bloc de code est délimité par une paire d'accolades ouvrante et fermante.
+Une expression est un morceau de code combinant des variables, des valeurs et des opérateurs.
+L'évaluation d'une expression produit une valeur et correspond à un certain type.
+On peut inclure des expressions dans une chaîne de caractères délimitée par une paire d'accents
+graves seuls (`...`  ). Ces chaînes sont appelées modèles de libellés (template literals).
+</p>
+<p>
+Des conversions de type peuvent avoir lieu implicitement lors de l'évaluation d'une expression, 
+ou bien explicitement avec les instructions  Number()  et  String()  qui 
+convertissement respectivementune expression en un nombre et en une chaîne.
+Les instructions   prompt()  et   alert()  permettent respectivement de faire saisir et d'afficher 
+une information sous la forme d'une boîte de dialogue. Elles ne fonctionnent que dans le contexte 
+d'un navigateur web.Il est essentiel de bien nommer ses variables et 
+d'adopter une convention de nommage, comme par exemple camelCase. 
+</p>
+
+
+<h3 style="padding: 10px 0px; color: #13283D;>Ajoutez des conditions</h3>
+
+<p>
+Le mot-clé  if  définit une instruction conditionnelle, appelée également test.
+Les instructions associées au  if  ne sont exécutées que si la condition est vérifiée (vraie). 
+Une condition est une expression dont l'évaluation produit une valeur booléenne (  true  ou  false  ).
+Les instructions associées à une instruction  if  sont regroupées dans un bloc de code délimité par
+une paire d'accolades ouvrante et fermante. Pour plus de lisibilité, le contenu d'un bloc de code doit
+être indenté (décalé vers la droite) par rapport à l'instruction à laquelle il est associé.
+Les opérateurs  ===  ,   !==  ,   <  ,   <=  ,  >  et   >=  peuvent être utilisés pour comparer
+des nombres au sein d'une condition. Ils renvoient tous un résultat booléen.
+Associée à un  if  , l'instruction  else  permet d'exprimer une alternative. 
+Selon la valeur de la condition, le bloc de code associé au  if  ou celui associé au  else  sera exécuté, 
+mais jamais les deux. On peut imbriquer sans limite des instructions  if/else   à l'intérieur d'autres 
+instructions   if/else  .
+Les opérateurs logiques  &&  (ET),  ||  (OU) et  !  (NON) permettent de créer des conditions composées.
+L'instruction  switch  permet d'exécuter un bloc de code parmi plusieurs selon la valeur d'une expression.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;>Répétez des instructions(Les boucles)</h3>
+
+<p>
+On utilise une boucle afin d'exécuter plusieurs fois un bloc d'instructions.                 
+Chaque exécution est appelée un tour de boucle ou encore une itération. Le bloc d'instructions
+associé à une boucle est appelé le corps de la boucle.           
+La boucle  while  permet de répéter des instructions tant qu'une condition est vérifiée. 
+La boucle  for  ajoute la possibilité d'effectuer un traitement à l'entrée dans 
+la boucle (initialisation) et après chaque tour de boucle (étape).
+La variable utilisée dans l'initialisation, la condition et l'étape d'une boucle  for  est appelée
+le compteur de la boucle.
+Il faut toujours que la condition d'une boucle  while  puisse devenir fausse afin d'éviter
+le risque d'une boucle infinie.
+On s'interdit de manipuler le compteur d'une boucle  for  à l'intérieur du corps de la boucle.
+Toutes les boucles peuvent s'écrire avec un  while  . La boucle  for  est à privilégier lorsque 
+le nombre d'itérations est connu à l'avance. 
+
+</p>
+

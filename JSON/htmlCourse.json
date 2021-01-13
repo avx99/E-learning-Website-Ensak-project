@@ -1,0 +1,801 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "ayOo393gXKD5nobt0RKslcae0Lo",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2018-04-19T12:26:15Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 1, Introduction",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/introduction-1019\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans cette vid\u00e9o je vous propose de d\u00e9couvrir ce qu'est l'HTML et qu'elle est sa place dans l'apprentissage de la cr\u00e9ation de sites internet.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oEAuNzWXRjM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oEAuNzWXRjM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oEAuNzWXRjM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oEAuNzWXRjM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oEAuNzWXRjM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 0,
+      "resourceId": { "kind": "youtube#video", "videoId": "oEAuNzWXRjM" }
+    },
+    "contentDetails": {
+      "videoId": "oEAuNzWXRjM",
+      "videoPublishedAt": "2018-10-02T12:00:09Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Vaz6pUTzyAq_gowSIRCPFcnhP1U",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2018-04-19T12:26:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 2, La syntaxe",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/syntaxe-html-1020\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans cette vid\u00e9o je vous propose de d\u00e9couvrir la syntaxe de l'HTML et le fonctionnement de balises et des attributs.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XRoFTzGcCsw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XRoFTzGcCsw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XRoFTzGcCsw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XRoFTzGcCsw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XRoFTzGcCsw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 1,
+      "resourceId": { "kind": "youtube#video", "videoId": "XRoFTzGcCsw" }
+    },
+    "contentDetails": {
+      "videoId": "XRoFTzGcCsw",
+      "videoPublishedAt": "2018-10-02T12:01:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "1zVmXkBM2dyDClq1ngotn4UQqSU",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2018-04-19T12:26:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 3, Installation de Visual Studio Code (Windows)",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/windows-installation-vscode-1021\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvant de pouvoir pratiquer l'HTML il est n\u00e9cessaire d'installer un \u00e9diteur qui vous permettra de modifier le code HTML de vos pages. Nous allons voir dans cette vid\u00e9o comment installer [Visual Studio Code](https://code.visualstudio.com/), un \u00e9diteur simple et gratuit.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Kd4jtZq2x0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Kd4jtZq2x0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Kd4jtZq2x0I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Kd4jtZq2x0I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Kd4jtZq2x0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 2,
+      "resourceId": { "kind": "youtube#video", "videoId": "Kd4jtZq2x0I" }
+    },
+    "contentDetails": {
+      "videoId": "Kd4jtZq2x0I",
+      "videoPublishedAt": "2018-10-02T12:02:01Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "hYZIzRYtUee-UNpnHmG0SGnNg1o",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2018-04-19T14:32:50Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 4, Installation de Visual Studio Code (MacOs)",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/macos-installation-vscode-1022\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvant de pouvoir pratiquer l'HTML il est n\u00e9cessaire d'installer un \u00e9diteur qui vous permettra de modifier le code HTML de vos pages. Nous allons voir dans cette vid\u00e9o comment installer [Visual Studio Code](https://code.visualstudio.com/), un \u00e9diteur simple et gratuit.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yr0xmQ9vezo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yr0xmQ9vezo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yr0xmQ9vezo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yr0xmQ9vezo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yr0xmQ9vezo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 3,
+      "resourceId": { "kind": "youtube#video", "videoId": "yr0xmQ9vezo" }
+    },
+    "contentDetails": {
+      "videoId": "yr0xmQ9vezo",
+      "videoPublishedAt": "2018-10-02T12:03:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "plfLRqwz8oIfRa4vwUyzw4wKNrw",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC41QTY1Q0UxMTVCODczNThE",
+    "snippet": {
+      "publishedAt": "2019-03-30T10:17:55Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 5, Installation de Visual Studio Code (Linux)",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/linux-installation-vscode-1154\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAvant de pouvoir pratiquer l'HTML il est n\u00e9cessaire d'installer un \u00e9diteur qui vous permettra de modifier le code HTML de vos pages. Nous allons voir dans cette vid\u00e9o comment installer [Visual Studio Code](https://code.visualstudio.com/) sur linux, un \u00e9diteur simple et gratuit.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AH-LTjLCXXI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AH-LTjLCXXI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AH-LTjLCXXI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AH-LTjLCXXI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AH-LTjLCXXI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 4,
+      "resourceId": { "kind": "youtube#video", "videoId": "AH-LTjLCXXI" }
+    },
+    "contentDetails": {
+      "videoId": "AH-LTjLCXXI",
+      "videoPublishedAt": "2019-03-30T10:19:35Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "0ObzVGyBjPwdjsV0bf9DFrtICnA",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2018-04-22T11:47:11Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 6, L'en-t\u00eate head",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/entete-head-1023\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nL'en t\u00eate est la premi\u00e8re partie d'une page web et permet de d\u00e9finir des informations sur votre document HTML. Les informations qui y sont plac\u00e9es ne seront pas visible directement par l'utilisateur mais permettront de mieux d\u00e9crire ce que contient votre page.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Iu8YpBnhWm4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Iu8YpBnhWm4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Iu8YpBnhWm4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Iu8YpBnhWm4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Iu8YpBnhWm4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 5,
+      "resourceId": { "kind": "youtube#video", "videoId": "Iu8YpBnhWm4" }
+    },
+    "contentDetails": {
+      "videoId": "Iu8YpBnhWm4",
+      "videoPublishedAt": "2018-10-02T12:04:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "hn-YjDl-YuiIq63xOxJt0hmuwrQ",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC5EQUE1NTFDRjcwMDg0NEMz",
+    "snippet": {
+      "publishedAt": "2018-09-25T09:00:13Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 7, L'encodage",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/encodage-utf8-1000\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nAujourd'hui, je vous propose de nous attarder sur le principe d'encodage des caract\u00e8res. Bien comprendre comment votre ordinateur encode vos fichiers va vous permettre d'\u00e9viter de nombreuses erreurs par la suite. Un des probl\u00e8mes typique que l'on rencontre lorsque l'on commence \u00e0 \u00e9crire nos premiers fichiers HTML c'est l'apparition de caract\u00e8res \"bizarres\" \u00e0 la place de nos caract\u00e8res accentu\u00e9s.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0AqDNXDd_Mk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0AqDNXDd_Mk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0AqDNXDd_Mk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0AqDNXDd_Mk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0AqDNXDd_Mk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 6,
+      "resourceId": { "kind": "youtube#video", "videoId": "0AqDNXDd_Mk" }
+    },
+    "contentDetails": {
+      "videoId": "0AqDNXDd_Mk",
+      "videoPublishedAt": "2018-04-26T12:01:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "MUOvvlrSort_QSYTBY1Lo6FBR7o",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2018-04-22T12:24:10Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 8, Les \u00e9l\u00e9ments textuels body",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/body-html-page-1024\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que nous avons vu les en t\u00eates nous allons pouvoir voir ce que l'on peut placer dans la partie `body`de notre page web. Nous allons notamment parler des [\u00e9l\u00e9ments textuels](https://developer.mozilla.org/fr/docs/Web/HTML/Element#Contenu_textuel)\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LkZ-KqxgVQ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LkZ-KqxgVQ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LkZ-KqxgVQ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LkZ-KqxgVQ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LkZ-KqxgVQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 7,
+      "resourceId": { "kind": "youtube#video", "videoId": "LkZ-KqxgVQ4" }
+    },
+    "contentDetails": {
+      "videoId": "LkZ-KqxgVQ4",
+      "videoPublishedAt": "2018-10-02T12:05:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "3uMhmbPOwNOrLoY8MSaSdWJO6qE",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2018-04-22T12:51:27Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 9, Les liens hypertextes",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/liens-hypertextes-1025\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nUn site internet est compos\u00e9 de plusieurs pages que l'on peut lier ensemble \u00e0 travers des [liens](https://developer.mozilla.org/fr/docs/Web/HTML/Element/a). M\u00eame si la balise semble simple \u00e0 utiliser au premier abord, il est important de comprendre les diff\u00e9rents types de lien que l'on peut utiliser.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gJ_G-gxQRRk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gJ_G-gxQRRk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gJ_G-gxQRRk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gJ_G-gxQRRk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gJ_G-gxQRRk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 8,
+      "resourceId": { "kind": "youtube#video", "videoId": "gJ_G-gxQRRk" }
+    },
+    "contentDetails": {
+      "videoId": "gJ_G-gxQRRk",
+      "videoPublishedAt": "2018-10-02T12:06:01Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "tkUA5HnSkNHqse0J3spVpjCAUos",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2018-04-25T10:32:02Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 10, Les images",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/images-1026\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nEn plus du contenu textuel il est possible d'ins\u00e9rer des \u00e9l\u00e9ments multim\u00e9dia au niveau de notre page web. Aussi, nous allons d\u00e9couvrir comment ins\u00e9rer des images au sein de notre page \u00e0 l'aide de la balise [img](https://developer.mozilla.org/fr/docs/Web/HTML/Element/img). On en profitera aussi pour parler des diff\u00e9rents formats d'images qui existe aujourd'hui.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7T9H-P45REg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7T9H-P45REg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7T9H-P45REg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7T9H-P45REg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7T9H-P45REg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 9,
+      "resourceId": { "kind": "youtube#video", "videoId": "7T9H-P45REg" }
+    },
+    "contentDetails": {
+      "videoId": "7T9H-P45REg",
+      "videoPublishedAt": "2018-10-02T12:07:01Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "2qH8f3RcNCcCE28bpQiAM3wW3AQ",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2018-05-17T22:16:00Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 11, Les table",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/table-1027\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nParfois on sera amen\u00e9 \u00e0 repr\u00e9senter des donn\u00e9es complexes au niveau de notre page web et on aura besoin pour cela d'utiliser des [tableau](https://developer.mozilla.org/fr/docs/Web/HTML/Element/table). Cette balise `table` n\u00e9cessite une structure pr\u00e9cise pour fonctionner correctement et il est important de bien comprendre comment elle fonctionne avant de l'utiliser.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g_u3U2BtK88/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g_u3U2BtK88/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g_u3U2BtK88/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g_u3U2BtK88/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g_u3U2BtK88/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 10,
+      "resourceId": { "kind": "youtube#video", "videoId": "g_u3U2BtK88" }
+    },
+    "contentDetails": {
+      "videoId": "g_u3U2BtK88",
+      "videoPublishedAt": "2018-10-02T12:08:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "1lAQEo_kso-JU2896xFaTuqOCR8",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2018-05-21T16:25:30Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 12, Les iframe",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/iframe-1028\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLes [iframe](https://developer.mozilla.org/fr/docs/Web/HTML/Element/iframe) permettent d'ins\u00e9rer une page web dans une autre page. Elles \u00e9taient tr\u00e8s utilis\u00e9es au d\u00e9but de l'HTML mais ont aujourd'hui un r\u00f4le plus secondaire et ne servent tr\u00e8s souvent qu'\u00e0 ins\u00e9rer des \u00e9l\u00e9ments provenant de sites tiers comme des modules de partage sociaux ou des cartes google maps.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BURRD_nWJh0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BURRD_nWJh0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BURRD_nWJh0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BURRD_nWJh0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BURRD_nWJh0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 11,
+      "resourceId": { "kind": "youtube#video", "videoId": "BURRD_nWJh0" }
+    },
+    "contentDetails": {
+      "videoId": "BURRD_nWJh0",
+      "videoPublishedAt": "2018-10-02T12:09:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "TzoTh2Q8H_P4xdEG7k6oBtzbSaY",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2018-05-21T16:26:02Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 13, div & span",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/div-span-1029\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans ce chapitre nous allons parler d'\u00e9l\u00e9ments particuliers comme les [div](https://developer.mozilla.org/fr/docs/Web/HTML/Element/div) ou les [span](https://developer.mozilla.org/fr/docs/Web/HTML/Element/span). M\u00eame si au premier abord ces \u00e9l\u00e9ment n'impacte pas votre page web il permettent de mieux structure le document et de donner un r\u00f4le \u00e0 vos diff\u00e9rents blocs de texte.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M34IhS0Pfj8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M34IhS0Pfj8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M34IhS0Pfj8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M34IhS0Pfj8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M34IhS0Pfj8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 12,
+      "resourceId": { "kind": "youtube#video", "videoId": "M34IhS0Pfj8" }
+    },
+    "contentDetails": {
+      "videoId": "M34IhS0Pfj8",
+      "videoPublishedAt": "2018-10-02T12:10:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "JplQaltNutxPxJtdILU8_nzgi08",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2018-05-21T17:37:30Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 14, L'inspecteur",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/inspecteur-navigateur-1030\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nDans cette vid\u00e9o nous allons d\u00e9couvrir l'inspecteur d'\u00e9l\u00e9ments, Cet outil, disponible par d\u00e9faut dans les navigateurs modernes, permet d'inspecter le document HTML tel qu'il est interpr\u00e9t\u00e9 par votre navigateur et de d\u00e9tecter plus facilement d'\u00e9ventuelles erreurs.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VXNw-elEFlo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VXNw-elEFlo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VXNw-elEFlo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VXNw-elEFlo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VXNw-elEFlo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 13,
+      "resourceId": { "kind": "youtube#video", "videoId": "VXNw-elEFlo" }
+    },
+    "contentDetails": {
+      "videoId": "VXNw-elEFlo",
+      "videoPublishedAt": "2018-10-02T12:11:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "svuzjxqerpGNfL9Jz-Q_fu7cBm8",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2018-05-22T10:19:16Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 15, Qu'est ce que le W3C ?",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/w3C-standard-1031\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nLe **W3C**, pour World Wide Web Consortium, est un organisme charg\u00e9 de la standardisation de nombreuses technologies li\u00e9es au web (HTML5, CSS, PNG, SVG...). \n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oV964Z6P9_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oV964Z6P9_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oV964Z6P9_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oV964Z6P9_c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oV964Z6P9_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 14,
+      "resourceId": { "kind": "youtube#video", "videoId": "oV964Z6P9_c" }
+    },
+    "contentDetails": {
+      "videoId": "oV964Z6P9_c",
+      "videoPublishedAt": "2018-10-02T12:12:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "0CuFQG46z6a1Ofsx2bflCcD0rZA",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2018-05-22T10:19:26Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 16, Les formulaires",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/form-html-1032\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nM\u00eame si on ne sera pas en mesure de totalement les exploiter aujourd'hui je vous porpose de faire un tour d'horizon des \u00e9l\u00e9ments qui ont attrait \u00e0 la cr\u00e9ation de formulaire. Il faudra en revanche attendre l'apprentissage d'un langage c\u00f4t\u00e9 serveur pour parler de leur traitement, on ne s'occupera ici que de la composition d'un formulaire.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r-X7DutXeIY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r-X7DutXeIY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r-X7DutXeIY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r-X7DutXeIY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r-X7DutXeIY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 15,
+      "resourceId": { "kind": "youtube#video", "videoId": "r-X7DutXeIY" }
+    },
+    "contentDetails": {
+      "videoId": "r-X7DutXeIY",
+      "videoPublishedAt": "2018-10-02T12:14:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "r33K-0GWlswYNroIUDcsRtjPF70",
+    "id": "UExqd2RNZ3c1VFRMVWVpeFZHUE5sMXVaTmVKeTRVWTZxWC41Mzk2QTAxMTkzNDk4MDhF",
+    "snippet": {
+      "publishedAt": "2018-05-22T10:30:48Z",
+      "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "title": "Apprendre l'HTML : Chapitre 17, TP : Cr\u00e9er ses premi\u00e8res pages",
+      "description": "Article \u25ba https://grafikart.fr/tutoriels/tp-site-html-1033\nAbonnez-vous \u25ba https://bit.ly/GrafikartSubscribe\n\nMaintenant que l'on a fait un petit tour des \u00e9l\u00e9ments HTML et du fonctionnement g\u00e9n\u00e9ral de ce langage, je vous propose d'essayer de cr\u00e9er vos premi\u00e8res pages de mani\u00e8re autonome.\n\nSoutenez Grafikart:\nDevenez premium \u25ba https://grafikart.fr/premium\nDonnez via Utip \u25ba https://utip.io/grafikart\n\nRetrouvez Grafikart sur:\nLe site \u25ba https://grafikart.fr\nTwitter \u25ba https://twitter.com/grafikart_fr\nDiscord \u25ba https://grafikart.fr/tchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vj-5-_h_E8w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vj-5-_h_E8w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vj-5-_h_E8w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vj-5-_h_E8w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vj-5-_h_E8w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Grafikart.fr",
+      "playlistId": "PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX",
+      "position": 16,
+      "resourceId": { "kind": "youtube#video", "videoId": "vj-5-_h_E8w" }
+    },
+    "contentDetails": {
+      "videoId": "vj-5-_h_E8w",
+      "videoPublishedAt": "2018-10-02T12:15:00Z"
+    },
+    "status": { "privacyStatus": "public" }
+  }
+]

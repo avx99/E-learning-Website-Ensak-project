@@ -1,0 +1,202 @@
+<center><h1 style="padding: 10px 0px; color: #13283D;">Cours Angular</h1></center>
+<h3 style="padding: 10px 0px; color: #13283D;">Introduction</h3>
+
+<p>
+    Angular est un framework Javascript côté client qui permet de réaliser des applications 
+    de type "Single Page Application". Il est basé sur le concept de l'architecture MVC 
+    (Model View Controller) qui permet de séparer les données, les vues et les différentes 
+    actions que l'on peut effectuer.
+Depuis 2009 jusqu'à aujourd'hui, Google a sorti trois différentes versions d'Angular:
+ AngularJS (2009), Angular 2 (2016) et Angular 4 (2017). A partir de la version 2,
+  le framework a été complètement reécrit. AngularJS n'est donc pas compatible avec 
+  les versions ultérieures. En revanche, il est tout à fait possible de migrer entre 
+  la version 2 et la version 4.
+Dans cet article nous allons nous focaliser sur les deux dernières versions d'Angular.
+Le code source d'Angular est écrit en TypeScript. Le TypeScript est une couche 
+supérieur au Javascript développé par Microsoft qui se compile en JavaScript simple. 
+Etant un language typé, il permet de créer des classes, des variables, des signatures 
+de fonction et l'utilisation de modules. Il est important de noter que l'utilisation 
+du TypeScript est facultative, on peut tout à fait utiliser du JavaScript dans un fichier TypeScript.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Architecture</h3>
+
+<p>
+    Angular est aujourd'hui basé sur une architecture de composants complètement indépendants 
+    les uns des autres. Une fois le composant principal chargé, il analyse ensuite la vue html correspondant 
+    à celui-ci et détecte si il comporte des composants imbriqués. Si c'est le cas, Angular 
+    va trouver toutes les correspondances et exécuter le code lié a celles-ci. On peut imbriquer 
+    autant de composants que l'on souhaite.
+    Un composant dans Angular sert à générer une partie de code html et fournir 
+    des fonctionnalités à celle-ci. C'est pour cela qu'un composant est constitué d'une classe dans 
+    laquelle on pourra définir la logique d'application pour ce composant avec des propriétés, des méthodes..etc.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Module racine</h3>
+
+<p>
+En plus des composants, une application Angular contient un ou plusieurs modules. 
+Les modules permettent de garder son code organisé dans des blocs de fonctionnnalités. 
+Chaque application nécessite un module root (ou racine) qui agit comme point de départ 
+dans une application. Celui-ci sera contenu dans un fichier nommé app.module.ts et va permettre
+ d'indiquer à Angular comment assembler l'application. Pour informer Angular que cette classe 
+ sera destinée à être un module, on utilisera le décorateur NgModule.
+Ce module racine va contenir différentes propriétés:
+Import: on va déclarer ici les autres modules Angular dont ce module aura besoin.
+Declaration: pour rendre les composants, les directives accessibles à notre module 
+qui ne proviennent pas d'un autre module.
+Bootstrap: permet à Angular de connaitre le composant qui sera le composant de départ de l'application.
+Ce composant va s'appeler AppComponent et proviendra d'un fichier nommé app.composant.ts et sera situé juste
+ à côté du fichier app.module.ts.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">AppComponent</h3>
+<p>
+Pour construire un composant en Angular on va devoir utiliser le décorateur de composants. 
+On va importer celui-ci depuis le paquet "core" d'Angular: @angular/core. 
+On va pouvoir maintenant utiliser le décorateur "@Component" en lui fournissant au minimum deux métadonnées:
+Selector: cette propriété est utilisée par Angular pour localiser notre balise HTML et ainsi appliquer le composant.
+Template: on mettra ici notre code HTML.
+On pourra ajouter d'autres métadonnées comme par exemple "templateUrl" pour inclure un fichier html externe,
+ "styleUrls" pour appliquer du code CSS sur notre portion de code HTML.
+Dans notre projet, il existe un fichier index.html qui comporte une balise HTML
+ nommée "app". Notre sélecteur déclaré dans le composant ciblera donc cette balise.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Composants<h3>
+<h5 style="padding: 10px 0px; color: #13283D;">Ajouter un composant</h5>
+<p>  
+Dans une application Angular, il est possible et même recommandé d'imbriquer un ou plusieurs composants.
+Pour cela, on va simplement mettre a disposition notre nouveau composant de la même manière que notre AppComponant.
+On commencera par créer notre fichier composant que l'on nommera nomDuComposant.
+component.ts ainsi que sa template HTML.
+On va ensuite importer notre classe dans le fichier app.module.ts pour la rendre disponible 
+dans toute l'application et on l'ajoutera dans le tableau des déclarations.
+Maintenant, nous pouvons passer au fichier app.component.html et ajouter dans la page 
+la balise correpondant au sélecteur de notre nouveau composant.
+Il est possible ainsi d'imbriquer un nombre illimité de composants dans notre application.
+</p>
+
+<h5 style="padding: 10px 0px; color: #13283D;">Afficher des données dans la vue</h5>
+<p>
+Une des méthodes les plus courantes pour afficher du contenue dans notre template HTML est l'interpolation. 
+Pour ceci on utilisera la syntaxe des doubles accolades qui rendra un contenu de type string. 
+On pourra ainsi déclarer une variable dans le composant correspondant et afficher sa valeur directement dans la vue.
+Data Binding
+Une autre façon de combiner les données dans les modèles avec Angular est le "data binding".
+Les éléments HTML possèdent des propriétés du DOM qui suivent l'état des éléments. 
+On peut utiliser la syntaxe de data binding d'Angular pour lier nos propriétés. 
+On pourra faire cela avec une syntaxe spécifique, une paire de crochets autour d'un nom de variable
+sur un élément, et on definira notre variable suivant les mêmes règles que pour l'interpolation.
+</p>
+<h5 style="padding: 10px 0px; color: #13283D;">Evènements</h5>
+<p>
+Pour lier des évènements depuis la template vers le composant, on utilisera la syntaxe 
+d'Angular prévue à cet effet. Par exemple, pour lier un "click" vers notre composant, 
+on va insérer (click)="nomMethode()" dans la balise souhaitée et on déclarera également 
+cette méthode dans notre composant qui contiendra la logique de l'action.
+</p>
+
+<h5 style="padding: 10px 0px; color: #13283D;">Passer des données entre composants</h5>
+<p>
+Il est possible de passer des données depuis un composant parent vers son enfant grâce 
+au décorateur Angular "Input".
+Pour ceci, on va tout d'abord importer le décorateur Input dans notre composant enfant: 
+import { Component, Input } from '@angular/core'. Et on va déclarer notre variable dans 
+la classe avec le décorateur: @Input() varEnfant.
+Depuis notre composant parent, on va également déclarer dans la classe la variable que 
+l'on veut faire passer. Ensuite il ne reste plus qu'à utiliser la syntaxe du data binding 
+depuis le fichier html correspondant au composant parent et l'insérer dans la balise 
+de l'enfant: <EnfantComponent [varParent]="varEnfant"></EnfantComponent>.
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;">Injection de dépendances</h3>
+<p>
+    Angular a également été concu pour permettre l'injection de dépendances. 
+    C'est ce principe qui nous donne la possibilité de créer des composants, des directives, 
+    d'une manière modulaire où ils ne sont pas forcés de se connaître mutuellement pour coéxister. 
+    Angular va gèrer la création d'instances et les injecter dans les endroits où elles sont nécessaires.
+</p>
+<h5 style="padding: 10px 0px; color: #13283D;">Les services</h5>
+<p>
+Un service est une classe qui contiendra une logique que l'on va pouvoir utiliser un peu partout
+ dans notre application. L'injection de dépendances va nous permettre ainsi d'injecter nos services 
+ seulement aux endroits souhaités et eviter de répéter du code logique dans chaque composants.
+</p>
+<h5 style="padding: 10px 0px; color: #13283D;">Utilisation d'un service</h5>
+<p>
+    Pour utiliser un service depuis un composant, il faut tout d'abord l'importer dans le fichier 
+    app.module.ts et le déclarer dans la section 'providers'. Il faut également importer 
+    le service dans le composant dans lequel on souhaite l'utiliser. Nous devons ensuite créer 
+    un constructeur afin de pouvoir effectuer une injection de constructeur Angular. Pour ceci on va
+     déclarer le service comme paramètre privé du constructeur en specifiant son type. 
+     Et on pourra ainsi utiliser toute la logique du service depuis ce composant.
+</p>
+<h5 style="padding: 10px 0px; color: #13283D;">Le décorateur @Inject</h5>
+<p>
+Ce décorateur va nous permettre d'injecter des valeurs directement dans nos constructeurs. 
+Pour réaliser ceci, depuis le fichier app.module.ts, nous pouvons créer une variable locale 
+et la déclarer dans la section 'provider' mais cette fois-ci d'une certaine manière. 
+En effet, on va l'insérer en tant qu'un objet avec deux propriétés différentes: '
+provide' qui sera une string, et 'useValue' qui sera la valeur que l'on veut injecter.
+Maintenant, voyons comment l'utiliser dans un constructeur. Tout d'abord, il faut importer le décorateur 
+'Inject' se trouvant dans le paquet 'core' d'Angular. Ensuite on va injecter notre valeur directement dans
+notre constructeur d'une manière similaire à la façon dont on peut utiliser certains décorateurs pour 
+décorer les propriétés de la classe: @Inject('stringProvide') nomValeur.
+Nous pouvons maintenant utiliser notre objet dans notre composant sachant que toutes les 
+propriétés que nous mettons sur la classe du composant seront disponibles pour la template.
+</p>
+<h3 style="padding: 10px 0px; color: #13283D;">Routes</h3>
+<p>
+Angular possède un module appelé Router pour gérer le routage côté client. Pour utiliser le routage 
+dans notre application Angular, il est nécessaire d'effectuer une petite configuration.
+</p>
+<h5 style="padding: 10px 0px; color: #13283D;">Configuration</h5>
+<p>
+La première chose a faire consiste à configurer la base href dans le DOM. 
+Le routeur utilise l'état de l'historique de navigation du navigateur pour la navigation 
+et l'interaction de l'URL. Cela permet essentiellement aux URL d'être utilisées dans une 
+application client sans déclencher réellement une nouvelle requête à distance. Le code client 
+peut alors fonctionner contre ces changements d'état et prendre des décisions sur le routage.
+Pour cela on va ajouter une balise <base> dans la partie 'head' de notre fichier index.html 
+de la manière suivante: base href="/".
+La prochaine chose que nous devons faire est de créer des routes. Faisons-le dans un nouveau 
+fichier nommé app.routing.ts.
+On va tout d'abord importer le module Routes situé dans le paquet 'router' d'Angular. 
+On va créer une variable 'appRoutes' de type Routes qui sera un tableau. A l'intérieur 
+on va pouvoir lister les différentes routes de notre application. Chaque élément de ce tableau 
+est un objet composé de deux propriétés: 'path' et 'component'. Dans 'path' on mettra l'URL sans 
+ajouter de '/' car le router gère la construction de l'URL. Et dans 'component' on indiquera 
+le composant a afficher.
+Apres avoir listé toutes nos routes, il reste à indiquer à app.module.ts l'existence de cette liste. 
+Toujours dans le fichier app.routing.ts, on va importer le module de routeur qui se trouve 
+également dans le paquet 'router' d'Angular. Et on va ajouter une variable que l'on nommera 'routing' 
+précèdé de la mention 'export'. Cette variable sera égale a la fonction RouterModule.forRoot qui prend
+ en paramètre un ensemble d'objets de routes. On lui passera donc notre variable 'appRoutes'.
+La dernière chose que nous devons faire est de passer au fichier app.module.ts et d'ajouter 
+une déclaration d'importation pour le routage. On va donc importer notre variable routing, et l'ajouter 
+dans notre liste d'imports dans @NgModule.
+Avec cela, notre appModule est conscient des routes que nous avons mis en place et est prêt à
+commencer à les traiter. Il est également configuré pour utiliser les directives RouterModule 
+et les services provenant du RouterModule.
+</p>
+<h5 style="padding: 10px 0px; color: #13283D;">RouterLink</h5>
+<p>
+Angular a une directive appelée routerLink qui gère le changement de comportement des liens HTML 
+pour fonctionner avec le moteur du routeur. On peut utiliser routerLink pour créer une navigation 
+dans nos applications qui utilisent le routage. Pour ceci, il faut juste insèrer la directive routerLink 
+dans un lien HTML et placer le segment d'URL, soit absolu ou relatif, ver lequel on souhaite naviguer. 
+La directive routerLink prend en charge la liaison entre les deux qui, par le routeur, effectue 
+le routage du côté client.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Conclusion</h3>
+<p>
+Pour conclure cette introduction à Angular, on peut dire que ce framework est un outil très performant
+pour la création d'applications web. L'utilisation de TypeScript permet d'avoir un code plus structuré 
+et permet d'utiliser des décorateurs. Les composants facilitent le développement d'applications 
+à grande échelle tout en conservant la maintenabilité. Ils permettent également d'organiser le code et 
+de le décomposer en un niveau très granulaire. On peut séparer les services / la logique métier des 
+composants et des vues. L'injection de dépendances nous permet d'utiliser des patterns courants dans 
+la plupart des frameworks backend.
+</p>
+

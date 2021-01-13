@@ -1,0 +1,19 @@
+ <center><h1>Programmation</h1></center>
+<h3 style="padding: 10px 0px; color: #13283D;">Introduction</h3>
+<p>
+                            
+Dans le domaine de l'informatique, la programmation, appelée aussi codage1, 
+est l'ensemble des activités qui permettent l'écriture des programmes informatiques. 
+C'est une étape importante du développement de logiciels. <br> <br>
+</p>
+<p>
+Pour écrire un programme, on utilise un langage de programmation. Un logiciel est un ensemble de programmes 
+(qui peuvent être écrits dans des langages de programmation différents) 
+dédié à la réalisation de certaines tâches par un (ou plusieurs) utilisateurs du logiciel. <br>
+La programmation représente donc ici la rédaction du (ou des) code source d'un logiciel. <br>
+On utilise plutôt le terme développement pour dénoter l'ensemble des activités liées à la création 
+d'un logiciel et des programmes qui le composent. <br>
+ Cela inclut la spécification du logiciel, sa conception,
+puis son implémentation proprement dite au sens de l'écriture des programmes dans un langage 
+de programmation bien défini et aussi la vérification de sa correction, etc. <b>
+</p>

@@ -1,0 +1,154 @@
+<center><h1>Cours Langage C</h1></center>
+
+<h2 style="padding: 10px 0px; color: #13283D;">Les bases de la programmation en C</h2>
+<h3 style="padding: 10px 0px; color: #13283D;">Votre premier programme</h3>
+
+<p>
+On a préparé le terrain jusqu'ici, maintenant il serait bien de commencer à programmer un peu, 
+qu'en dites-vous ? C'est justement l'objectif de ce chapitre ! À la fin de celui-ci, 
+vous aurez réussi à créer votre premier programme !
+Bon d'accord, ce programme sera en noir et blanc et ne saura que vous dire bonjour, 
+il semblera donc complètement inutile mais ce sera votre premier ; 
+je peux vous assurer que vous en serez fiers.
+
+<h3 style="padding: 10px 0px; color: #13283D;">Console ou fenêtre ?</h3>
+
+<p>
+Nous avons rapidement parlé de la notion de « programme console » et de « programme fenêtre » 
+dans le chapitre précédent. Notre IDE nous demandait quel type de programme nous voulions 
+créer et je vous avais dit de répondreconsole.
+Il faut savoir qu'en fait il existe deux types de programmes, pas plus :<br>
+
+les programmes avec fenêtres ;<br>
+les programmes en console.<br>
+
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les programmes en fenêtres</h3>
+<p>
+Ce sont les programmes que vous connaissez.
+La fig. suivante est un exemple de programme en fenêtres que vous connaissez sûrement.
+Le programme Paint
+Ça donc, c'est un programme avec des fenêtres. Je suppose que vous aimeriez bien 
+créer ce type de programmes, hmm ? Eh bien… vous n'allez pas pouvoir de suite !
+En effet, créer des programmes avec des fenêtres en C c'est possible, mais… quand on débute, 
+c'est bien trop compliqué !
+Pour débuter, il vaut mieux commencer par créer des programmes en console.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les programmes en console</h3>
+
+<p>
+Les programmes console ont été les premiers à apparaître. À cette époque, l'ordinateur ne gérait que 
+le noir et blanc et il n'était pas assez puissant pour créer des fenêtres comme on le fait aujourd'hui.
+
+Bien entendu, le temps a passé depuis. Si l'ordinateur est devenu « grand public », c'est principalement
+ grâce à une simplicité accrue grâce à l'utilisation des fenêtres sur Windows et OS X 
+ dès la deuxième moitié des années 1980. Aujourd'hui, beaucoup de monde a oublié ce qu'était la console. 
+ Oui vous là, ne regardez pas derrière vous, je sais que vous vous demandez ce que c'est !
+
+J'ai une grande nouvelle ! La console n'est pas morte ! En effet, Linux a remis au goût du jour 
+l'utilisation de la console. La fig. suivante est une capture d'écran d'une console sous Linux.
+Un exemple de console, ici sous Linux
+Brrr… Terrifiant, hein ? Voilà, vous avez maintenant une petite idée de ce à quoi ressemble une console.
+Ceci dit, plusieurs remarques :
+aujourd'hui on sait afficher de la couleur, tout n'est donc pas en noir et blanc comme on pourrait le croire ;
+la console est assez peu accueillante pour un débutant ;
+c'est pourtant un outil puissant quand on sait le maîtriser.
+Comme je vous l'ai dit plus haut, créer des programmes en mode « console » comme ici, c'est très 
+facile et idéal pour débuter (ce qui n'est pas le cas des programmes en mode « fenêtre »).
+Notez que la console a évolué : elle peut afficher des couleurs, et rien ne vous empêche de mettre une image de fond.
+Et sous Windows ? Il n'y a pas de console ?
+Si, mais elle est un peu… « cachée » on va dire.
+Vous pouvez avoir une console en faisantDémarrer / Accessoires / Invite de commandes, ou bien encore en faisantDémarrer / 
+Exécuter…, et en tapant ensuitecmd.
+La fig. suivante représente la maaagnifique console de Windows.
+La console de Windows
+Si vous êtes sous Windows, sachez donc que c'est dans une fenêtre qui ressemble à ça que nous ferons nos premiers 
+programmes. Si j'ai choisi de commencer par des petits programmes en console, ce n'est pas pour vous ennuyer,
+bien au contraire ! En commençant par faire des programmes en console, vous apprendrez les bases nécessaires 
+pour pouvoir ensuite créer des fenêtres.
+Soyez donc rassurés : dès que nous aurons le niveau pour créer des fenêtres, nous verrons comment en faire.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Un minimum de code</h3>
+
+<p>
+    Pour n'importe quel programme, il faudra taper un minimum de code.
+    Ce code ne fera rien de particulier mais il est indispensable.
+    C'est ce « code minimum » que nous allons découvrir maintenant. Il devrait servir de base pour
+    la plupart de vos programmes en langage C.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Demandez le code minimal à votre IDE</h3>
+
+<p>
+Selon l'IDE que vous avez choisi dans le chapitre précédent, la méthode pour créer un nouveau 
+projet n'est pas la même. Reportez-vous à ce chapitre si vous avez oublié comment faire.
+
+Pour rappel, sous Code::Blocks (qui est l'IDE que je vais utiliser tout au long de ce cours), 
+il faut aller dans le menuFile / New / Project, puis choisirConsole Applicationet sélectionner le langage C.
+
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Un monde de variables</h3>
+
+<p>
+    Vous savez afficher un texte à l'écran. Très bien. Ça ne vole peut-être pas très haut pour le moment,
+    mais c'est justement parce que vous ne connaissez pas encore ce qu'on appelle les variables en programmation.
+    Le principe dans les grandes lignes, c'est de faire retenir des nombres à l'ordinateur.
+    On va apprendre à stocker des nombres dans la mémoire.
+    Je souhaite que nous commencions par quelques explications sur la mémoire de votre ordinateur. 
+    Comment fonctionne une mémoire ? Combien un ordinateur possède-t-il de mémoires différentes ? 
+    Cela pourra paraître un peu simpliste à certains d'entre vous, mais je pense aussi à ceux qui 
+    ne savent pas bien ce qu'est une mémoire.</p>
+    <h3 style="padding: 10px 0px; color: #13283D;">Une affaire de mémoire</h3>
+    <p>
+    Ce que je vais vous apprendre dans ce chapitre a un rapport direct avec la mémoire de votre ordinateur.
+    Tout être humain normalement constitué a une mémoire. Eh bien c'est pareil pour un ordinateur… 
+    à un détail près : un ordinateur a plusieurs types de mémoire !
+    Pourquoi un ordinateur aurait-il plusieurs types de mémoire ? Une seule mémoire aurait suffi, non ?
+    Non : en fait, le problème c'est qu'on a besoin d'avoir une mémoire à la fois rapide 
+    (pour récupérer une information très vite) et importante (pour stocker beaucoup de données). 
+    Or, vous allez rire, mais jusqu'ici nous avons été incapables de créer une mémoire qui soit 
+    à la fois très rapide et importante. Plus exactement, la mémoire rapide coûte cher, 
+    on n'en fait donc qu'en petites quantités.
+    Du coup, pour nous arranger, nous avons dû doter les ordinateurs de mémoires très rapides 
+    mais pas importantes, et de mémoires importantes mais pas très rapides (vous suivez toujours ?).
+    </p>
+    <h3 style="padding: 10px 0px; color: #13283D;">Les différents types de mémoire</h3>
+    <p>
+    Pour vous donner une idée, voici les différents types de mémoire existant dans un ordinateur, 
+    de la plus rapide à la plus lente :<br>
+    1 -les registres : une mémoire ultra-rapide située directement dans le processeur ;<br>
+    2 -la mémoire cache : elle fait le lien entre les registres et la mémoire vive ;<br>
+    3 -la mémoire vive : c'est la mémoire avec laquelle nous allons travailler le plus souvent ;<br>
+    4 -le disque dur : que vous connaissez sûrement, c'est là qu'on enregistre les fichiers.<br>
+
+    Comme je vous l'ai dit, j'ai classé les mémoires de la plus rapide (les registres) à la plus lente 
+    (le disque dur). Si vous avez bien suivi, vous avez compris aussi que la mémoire la plus rapide était 
+    la plus petite, et la plus lente la plus grosse.
+    Les registres sont donc à peine capables de retenir quelques nombres, tandis que le disque dur 
+    peut stocker de très gros fichiers.</br>
+</p>
+
+   <h3 style="padding: 10px 0px; color: #13283D;">En résumé</h3>
+   <p>
+    - Nos ordinateurs possèdent plusieurs types de mémoire. De la plus rapide à la plus lente : 
+    les registres, la mémoire cache, la mémoire vive et le disque dur.<br>
+
+    - Pour « retenir » des informations, notre programme a besoin de stocker des données dans la mémoire. 
+    Il utilise pour cela la mémoire vive. Les registres et la mémoire cache sont aussi utilisés pour augmenter 
+    les performances, mais cela fonctionne automatiquement, nous n'avons pas à nous en préoccuper.<br>
+
+    - Dans notre code source, les variables sont des données stockées temporairement en mémoire vive. 
+    La valeur de ces données peut changer au cours du programme.<br>
+
+    - À l'opposé, on parle de constantes pour des données stockées en mémoire vive. 
+    La valeur de ces données ne peut pas changer.<br>
+    - Il existe plusieurs types de variables, qui occupent plus ou moins d'espace en mémoire. 
+    Certains types commeintsont prévus pour stocker des nombres entiers, tandis que d'autres 
+    commedoublestockent des nombres décimaux.<br>
+
+    - La fonctionscanfpermet de demander à l'utilisateur de saisir un nombre.<br>
+   <p>
