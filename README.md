@@ -56,18 +56,26 @@ veut.
 
 # Fichiers
 
-## CSS : Contient les fichiers .css des styles de notre site.
-## FILES : Contient des fichiers .txt qui contient les contenus des chats, forums et
+## CSS :
+Contient les fichiers .css des styles de notre site.
+## FILES : 
+Contient des fichiers .txt qui contient les contenus des chats, forums et
 commentaires.
-## FilesArticles : Contient des fichiers .txt qui contient les contenus des cours et ses
+## FilesArticles : 
+Contient des fichiers .txt qui contient les contenus des cours et ses
 descriptions.
-## Images : Contient les images de notre site.
-## Includes : Contient des fichiers .php que l’utilisateur doit pas les voir et il n’a pas le
+## Images : 
+Contient les images de notre site.
+## Includes : 
+Contient des fichiers .php que l’utilisateur doit pas les voir et il n’a pas le
 droit de les accéder.
-## JS : Contient les fichiers javaScript/JQuery de notre site.
-## JSON : Contient des fichiers JSON qui contient des informations de plusieurs
+## JS : 
+Contient les fichiers javaScript/JQuery de notre site.
+## JSON : 
+Contient des fichiers JSON qui contient des informations de plusieurs
 playlists sur YouTube.
-## BD : Un dossier qui contient la base des données (.sql).
+## BD :
+Un dossier qui contient la base des données (.sql).
 
 # Langages et Framework utilise :
 
@@ -121,10 +129,9 @@ créer un grand nombre de sites web célèbres,
 comme Facebook et Wikipédia7
 Il est considéré comme une des bases de la
 création de sites web dits dynamiques mais également des applications web.
-• JQuery :
+## JQuery :
 jQuery est une bibliothèque JavaScript libre et multiplateforme créée pour
-faciliter l'écriture de scripts côté client dans le code HTML des pages web2
-.
+faciliter l'écriture de scripts côté client dans le code HTML des pages web.
 La première version est lancée en janvier 2006 par John Resig.
 Le but de la bibliothèque étant le parcours et la modification du DOM (y
 compris le support des sélecteurs CSS 1 à 3 et un support basique
@@ -135,7 +142,6 @@ d'Ajax est facilitée et de nombreux plugins sont présents.
 Depuis sa création en 2006 et notamment à cause de la complexification
 croissante des interfaces Web, jQuery a connu un large succès auprès des
 développeurs Web et son apprentissage est aujourd'hui un des 
-18
 fondamentaux de la formation aux technologies du Web. Il est à l'heure
 actuelle la bibliothèque front-end la plus utilisée au monde (plus de la moitié
 des sites Internet en ligne intègrent jQuery).
