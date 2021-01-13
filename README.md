@@ -33,22 +33,22 @@ Le choix du sujet exact :
 Comme vous savez à nos jours les méthodes et les pédagogies de l’apprentissage
 changent complètement, les gens commencent à apprendre à distance à cause de
 beaucoup des raisons, parmi lesquelles :
-## Le gagne du temps.
-## La disponibilité des cours à chaque moment.
-## La gratuité des cours.
-v La possibilité d’accrocher un emploi en ligne(Freelance).
+Le gagne du temps.
+La disponibilité des cours à chaque moment.
+La gratuité des cours.
+La possibilité d’accrocher un emploi en ligne(Freelance).
 Pour cela on a décidé de créer un site web dynamique d’apprentissage informatique en
 ligne.
 Cette page web va contenir des tutoriaux de programmation, Data science, AI... en format
 vidéo ou document (Word, PDF, article..).
 Notre site web va garantir les taches et les options suivantes :
-## Une inscription obligatoire pour avoir l’accès à notre site.
-## Une liaison avec une base de donnes (MySQL) pour stocker les donnes des
+Une inscription obligatoire pour avoir l’accès à notre site.
+Une liaison avec une base de donnes (MySQL) pour stocker les donnes des
 utilisateurs (nom, prénom, image,…).
-## Possibilité de contacter nous par email.
-## Possibilité de mettre une connexion entre les utilisateurs de la plateforme par un :
- 1 – Forum : Dans lequel les utilisateurs peuvent échanger ses idées.
-2 – Chat : Par lequel chaque utilisateur peut contacter un autre utilisateur en mode
+Possibilité de contacter nous par email.
+Possibilité de mettre une connexion entre les utilisateurs de la plateforme par un :
+ ## Forum : Dans lequel les utilisateurs peuvent échanger ses idées.
+## Chat : Par lequel chaque utilisateur peut contacter un autre utilisateur en mode
 prive.
 • Possibilité d’afficher les tutoriaux disponibles et sélectionner les uns qui l’utilisateur
 veut.
@@ -56,22 +56,22 @@ veut.
 
 # Fichiers
 
-• CSS : Contient les fichiers .css des styles de notre site.
-• FILES : Contient des fichiers .txt qui contient les contenus des chats, forums et
+## CSS : Contient les fichiers .css des styles de notre site.
+## FILES : Contient des fichiers .txt qui contient les contenus des chats, forums et
 commentaires.
-• FilesArticles : Contient des fichiers .txt qui contient les contenus des cours et ses
+## FilesArticles : Contient des fichiers .txt qui contient les contenus des cours et ses
 descriptions.
-• Images : Contient les images de notre site.
-• Includes : Contient des fichiers .php que l’utilisateur doit pas les voir et il n’a pas le
+## Images : Contient les images de notre site.
+## Includes : Contient des fichiers .php que l’utilisateur doit pas les voir et il n’a pas le
 droit de les accéder.
-• JS : Contient les fichiers javaScript/JQuery de notre site.
-• JSON : Contient des fichiers JSON qui contient des informations de plusieurs
+## JS : Contient les fichiers javaScript/JQuery de notre site.
+## JSON : Contient des fichiers JSON qui contient des informations de plusieurs
 playlists sur YouTube.
-• BD : Un dossier qui contient la base des données (.sql).
+## BD : Un dossier qui contient la base des données (.sql).
 
 # Langages et Framework utilise :
 
-• HTML :
+## HTML :
 Le HyperText Markup Language, généralement abrégé HTML ou dans sa
 dernière version HTML5, est le langage de balisage conçu pour représenter
 les pages web. C’est un langage permettant d’écrire de l’hypertexte, d’où
@@ -84,7 +84,7 @@ conforme aux exigences de l’accessibilité du web. Il est souvent utilisé
 conjointement avec le langage de programmation JavaScript et des feuilles
 de style en cascade (CSS). HTML est inspiré du Standard Generalized
 Markup Language (SGML)
-• CSS :
+## CSS :
 Les feuilles de style en cascade1
 , généralement appelées CSS de
 l'anglais Cascading Style Sheets, forment un langage informatique qui décrit
@@ -94,7 +94,7 @@ CSS sont publiés par le World Wide Web Consortium (W3C). Introduit au
 milieu des années 1990, CSS devient couramment utilisé dans la conception
 de sites web et bien pris en charge par les navigateurs web dans les années
 2000.
-• JavaScript :
+## JavaScript :
 JavaScript est un langage de programmation de scripts principalement
 employé dans les pages web interactives mais aussi pour les serveurs2 avec
 l'utilisation (par exemple) de Node.js3
@@ -109,7 +109,7 @@ première classe. Le langage supporte le paradigme objet, impératif et
 fonctionnel. JavaScript est le langage possédant le plus large écosystème
 grâce à son gestionnaire de dépendances npm, avec environ 500 000
 paquets en août 2017.
-• PHP :
+## PHP :
 PHP: Hypertext Preprocessor5
 , plus connu sous son sigle PHP (sigle autoréférentiel), est un langage de programmation libre6
 , principalement utilisé
