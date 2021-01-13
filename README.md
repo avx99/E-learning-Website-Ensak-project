@@ -54,7 +54,7 @@ prive.
 veut.
 • Possibilité de modifier le profil (nom, prénom, image,…).
 
-#Fichiers
+# Fichiers
 
 • CSS : Contient les fichiers .css des styles de notre site.
 • FILES : Contient des fichiers .txt qui contient les contenus des chats, forums et
@@ -68,3 +68,78 @@ droit de les accéder.
 • JSON : Contient des fichiers JSON qui contient des informations de plusieurs
 playlists sur YouTube.
 • BD : Un dossier qui contient la base des données (.sql).
+
+# Langages et Framework utilise :
+
+• HTML :
+Le HyperText Markup Language, généralement abrégé HTML ou dans sa
+dernière version HTML5, est le langage de balisage conçu pour représenter
+les pages web. C’est un langage permettant d’écrire de l’hypertexte, d’où
+son nom. HTML permet également de structurer sémantiquement et
+logiquement et de mettre en forme le contenu des pages, d’inclure
+des ressources multimédias dont des images, des formulaires de saisie et
+des programmes informatiques. Il permet de créer des
+documents interopérables avec des équipements très variés de manière
+conforme aux exigences de l’accessibilité du web. Il est souvent utilisé
+conjointement avec le langage de programmation JavaScript et des feuilles
+de style en cascade (CSS). HTML est inspiré du Standard Generalized
+Markup Language (SGML)
+• CSS :
+Les feuilles de style en cascade1
+, généralement appelées CSS de
+l'anglais Cascading Style Sheets, forment un langage informatique qui décrit
+la présentation des documents HTML et XML. Les standards définissant
+CSS sont publiés par le World Wide Web Consortium (W3C). Introduit au 
+17
+milieu des années 1990, CSS devient couramment utilisé dans la conception
+de sites web et bien pris en charge par les navigateurs web dans les années
+2000.
+• JavaScript :
+JavaScript est un langage de programmation de scripts principalement
+employé dans les pages web interactives mais aussi pour les serveurs2 avec
+l'utilisation (par exemple) de Node.js3
+. C'est un langage orienté
+objet à prototype, c'est-à-dire que les bases du langage et ses principales
+interfaces sont fournies par des objets qui ne sont pas
+des instances de classes, mais qui sont chacun équipés
+de constructeurs permettant de créer leurs propriétés, et notamment une
+propriété de prototypage qui permet de créer des
+objets héritiers personnalisés. En outre, les fonctions sont des objets de
+première classe. Le langage supporte le paradigme objet, impératif et
+fonctionnel. JavaScript est le langage possédant le plus large écosystème
+grâce à son gestionnaire de dépendances npm, avec environ 500 000
+paquets en août 2017.
+• PHP :
+PHP: Hypertext Preprocessor5
+, plus connu sous son sigle PHP (sigle autoréférentiel), est un langage de programmation libre6
+, principalement utilisé
+pour produire des pages Web dynamiques via un serveur HTTP5
+, mais
+pouvant également fonctionner comme n'importe quel langage interprété de
+façon locale. PHP est un langage impératif orienté objet.PHP a permis de
+créer un grand nombre de sites web célèbres,
+comme Facebook et Wikipédia7
+Il est considéré comme une des bases de la
+création de sites web dits dynamiques mais également des applications web.
+• JQuery :
+jQuery est une bibliothèque JavaScript libre et multiplateforme créée pour
+faciliter l'écriture de scripts côté client dans le code HTML des pages web2
+.
+La première version est lancée en janvier 2006 par John Resig.
+Le but de la bibliothèque étant le parcours et la modification du DOM (y
+compris le support des sélecteurs CSS 1 à 3 et un support basique
+de XPath), elle contient de nombreuses fonctionnalités ; notamment des
+animations, la manipulation des feuilles de style en cascade (accessibilité
+des classes et attributs), la gestion des évènements, etc. L'utilisation
+d'Ajax est facilitée et de nombreux plugins sont présents.
+Depuis sa création en 2006 et notamment à cause de la complexification
+croissante des interfaces Web, jQuery a connu un large succès auprès des
+développeurs Web et son apprentissage est aujourd'hui un des 
+18
+fondamentaux de la formation aux technologies du Web. Il est à l'heure
+actuelle la bibliothèque front-end la plus utilisée au monde (plus de la moitié
+des sites Internet en ligne intègrent jQuery).
+Cependant, son utilisation devient moins pertinente avec l'émergence de
+nouvelles bibliothèques telles que React (JavaScript) et Vue.js qui la
+remplacent dans la construction d'Application web monopage
+
