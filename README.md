@@ -2,6 +2,7 @@
 site d'apprentissage en ligne
   
 # Introduction
+
 L’Internet a révolutionné le monde des ordinateurs et des communications comme rien
 d’autre auparavant. En effet, elle est à la fois une capacité de diffusion dans le monde
 entier, un mécanisme de distribution de l'information et un moyen de collaboration et
@@ -25,8 +26,9 @@ s’améliorer. Le social Learning permet aux Introduction générale 2 apprenan
 discuter, d’échanger à propos de la formation et de progresser ensemble. L’important est
 donc de donner des outils pour lier les gens les uns aux autres afin qu’ils se parlent et
 s’auto-forment.
-4
+
 # Sujet :
+
 Le choix du sujet exact :
 Comme vous savez à nos jours les méthodes et les pédagogies de l’apprentissage
 changent complètement, les gens commencent à apprendre à distance à cause de
@@ -51,3 +53,18 @@ prive.
 • Possibilité d’afficher les tutoriaux disponibles et sélectionner les uns qui l’utilisateur
 veut.
 • Possibilité de modifier le profil (nom, prénom, image,…).
+
+#Fichiers
+
+• CSS : Contient les fichiers .css des styles de notre site.
+• FILES : Contient des fichiers .txt qui contient les contenus des chats, forums et
+commentaires.
+• FilesArticles : Contient des fichiers .txt qui contient les contenus des cours et ses
+descriptions.
+• Images : Contient les images de notre site.
+• Includes : Contient des fichiers .php que l’utilisateur doit pas les voir et il n’a pas le
+droit de les accéder.
+• JS : Contient les fichiers javaScript/JQuery de notre site.
+• JSON : Contient des fichiers JSON qui contient des informations de plusieurs
+playlists sur YouTube.
+• BD : Un dossier qui contient la base des données (.sql).
