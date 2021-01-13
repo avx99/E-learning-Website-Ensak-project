@@ -47,8 +47,10 @@ Une liaison avec une base de donnes (MySQL) pour stocker les donnes des
 utilisateurs (nom, prénom, image,…).
 Possibilité de contacter nous par email.
 Possibilité de mettre une connexion entre les utilisateurs de la plateforme par un :
- ## Forum : Dans lequel les utilisateurs peuvent échanger ses idées.
-## Chat : Par lequel chaque utilisateur peut contacter un autre utilisateur en mode
+## Forum : 
+Dans lequel les utilisateurs peuvent échanger ses idées.
+## Chat : 
+Par lequel chaque utilisateur peut contacter un autre utilisateur en mode
 prive.
 • Possibilité d’afficher les tutoriaux disponibles et sélectionner les uns qui l’utilisateur
 veut.
