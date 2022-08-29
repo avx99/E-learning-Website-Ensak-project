@@ -152,5 +152,5 @@ nouvelles bibliothèques telles que React (JavaScript) et Vue.js qui la
 remplacent dans la construction d'Application web monopage
 
 # link :
-http://127.0.0.1/Projet%20Web%20Pr.Saadi/
+<host>/Projet%20Web%20Pr.Saadi/
 
